@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <fid>6</fid>
+  <fname>forbes</fname>
+  <faddress>Forbes Avenue, Pittsburgh, PA, USA</faddress>
+  <flat>40.4440523</flat>
+  <flon>-79.9502126</flon>
+  <factive>1</factive>
+  <uacctid>62107</uacctid>
+</row>
+<row>
+  <fid>7</fid>
+  <fname>PPG Paints Arena</fname>
+  <faddress>PPG Paints Arena, Fifth Avenue, Pittsburgh, PA, USA</faddress>
+  <flat>40.43957699999999</flat>
+  <flon>-79.9894796</flon>
+  <factive>1</factive>
+  <uacctid>5370</uacctid>
+</row>
+</data>

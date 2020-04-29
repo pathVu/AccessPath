@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <iaid>28</iaid>
+  <iagoogleid>ChIJ5athUfj4NIgRKkoT9WH7TCY</iagoogleid>
+  <iaaddress>3380 Altherton Drive, Bethel Park, PA, USA</iaaddress>
+  <ialat>40.326113845152214</ialat>
+  <ialon>-80.06248030811548</ialon>
+  <iaimgname>04212020093458.jpg</iaimgname>
+  <iaimgpath>http://pathvudata.com/api1/api/crowdsource_data/7008/indoor/</iaimgpath>
+  <uacctid>7008</uacctid>
+  <iactive>1</iactive>
+  <igeometry>0101000000000068ADFF0354C0CDD93519BE294440</igeometry>
+</row>
+<row>
+  <iaid>29</iaid>
+  <iagoogleid>ChIJvW6eeff4NIgR67XYXkVzSsY</iagoogleid>
+  <iaaddress>Dunkin', McMurray Road, Upper Saint Clair, PA, USA</iaaddress>
+  <ialat>40.32599500000001</ialat>
+  <ialon>-80.0653291</ialon>
+  <iaimgname>04212020132144.jpg</iaimgname>
+  <iaimgpath>http://pathvudata.com/api1/api/crowdsource_data/7008/indoor/</iaimgpath>
+  <uacctid>7008</uacctid>
+  <iactive>1</iactive>
+  <igeometry>010100000089FE1A5A2E0454C06DD44334BA294440</igeometry>
+</row>
+</data>

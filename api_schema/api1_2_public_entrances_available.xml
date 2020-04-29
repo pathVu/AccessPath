@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <aeid>1</aeid>
+  <aename>Ramp</aename>
+  <aeactive>1</aeactive>
+</row>
+<row>
+  <aeid>2</aeid>
+  <aename>0 Steps</aename>
+  <aeactive>1</aeactive>
+</row>
+<row>
+  <aeid>3</aeid>
+  <aename>1 Step</aename>
+  <aeactive>1</aeactive>
+</row>
+<row>
+  <aeid>4</aeid>
+  <aename>2+ Steps</aename>
+  <aeactive>1</aeactive>
+</row>
+</data>

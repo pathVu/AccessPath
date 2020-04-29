@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <psid>53</psid>
+  <ppid>13</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>54</psid>
+  <ppid>13</ppid>
+  <sid>2</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>55</psid>
+  <ppid>13</ppid>
+  <sid>3</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>56</psid>
+  <ppid>13</ppid>
+  <sid>4</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>57</psid>
+  <ppid>13</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>58</psid>
+  <ppid>13</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>59</psid>
+  <ppid>13</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>60</psid>
+  <ppid>13</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>69</psid>
+  <ppid>15</ppid>
+  <sid>1</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>70</psid>
+  <ppid>15</ppid>
+  <sid>2</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>71</psid>
+  <ppid>15</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>72</psid>
+  <ppid>15</ppid>
+  <sid>4</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>73</psid>
+  <ppid>15</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>74</psid>
+  <ppid>15</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>75</psid>
+  <ppid>15</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>76</psid>
+  <ppid>15</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>37</psid>
+  <ppid>11</ppid>
+  <sid>1</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>38</psid>
+  <ppid>11</ppid>
+  <sid>2</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>39</psid>
+  <ppid>11</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>40</psid>
+  <ppid>11</ppid>
+  <sid>4</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>41</psid>
+  <ppid>11</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>42</psid>
+  <ppid>11</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>43</psid>
+  <ppid>11</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>44</psid>
+  <ppid>11</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>77</psid>
+  <ppid>16</ppid>
+  <sid>1</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>78</psid>
+  <ppid>16</ppid>
+  <sid>2</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>79</psid>
+  <ppid>16</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>80</psid>
+  <ppid>16</ppid>
+  <sid>4</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>81</psid>
+  <ppid>16</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>82</psid>
+  <ppid>16</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>83</psid>
+  <ppid>16</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>84</psid>
+  <ppid>16</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>45</psid>
+  <ppid>12</ppid>
+  <sid>1</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>46</psid>
+  <ppid>12</ppid>
+  <sid>2</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>47</psid>
+  <ppid>12</ppid>
+  <sid>3</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>48</psid>
+  <ppid>12</ppid>
+  <sid>4</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>49</psid>
+  <ppid>12</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>50</psid>
+  <ppid>12</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>51</psid>
+  <ppid>12</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>52</psid>
+  <ppid>12</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>29</psid>
+  <ppid>10</ppid>
+  <sid>1</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>30</psid>
+  <ppid>10</ppid>
+  <sid>2</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>31</psid>
+  <ppid>10</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>32</psid>
+  <ppid>10</ppid>
+  <sid>4</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>33</psid>
+  <ppid>10</ppid>
+  <sid>5</sid>
+  <psvalue>0</psvalue>
+</row>
+<row>
+  <psid>34</psid>
+  <ppid>10</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>35</psid>
+  <ppid>10</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>36</psid>
+  <ppid>10</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>86</psid>
+  <ppid>17</ppid>
+  <sid>2</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>87</psid>
+  <ppid>17</ppid>
+  <sid>3</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>89</psid>
+  <ppid>17</ppid>
+  <sid>5</sid>
+  <psvalue>0</psvalue>
+</row>
+<row>
+  <psid>90</psid>
+  <ppid>17</ppid>
+  <sid>6</sid>
+  <psvalue>0</psvalue>
+</row>
+<row>
+  <psid>91</psid>
+  <ppid>17</ppid>
+  <sid>7</sid>
+  <psvalue>0</psvalue>
+</row>
+<row>
+  <psid>92</psid>
+  <ppid>17</ppid>
+  <sid>8</sid>
+  <psvalue>0</psvalue>
+</row>
+<row>
+  <psid>85</psid>
+  <ppid>17</ppid>
+  <sid>1</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>88</psid>
+  <ppid>17</ppid>
+  <sid>4</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>93</psid>
+  <ppid>33</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>94</psid>
+  <ppid>33</ppid>
+  <sid>2</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>95</psid>
+  <ppid>33</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>96</psid>
+  <ppid>33</ppid>
+  <sid>4</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>97</psid>
+  <ppid>33</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>98</psid>
+  <ppid>33</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>99</psid>
+  <ppid>33</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>100</psid>
+  <ppid>33</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>101</psid>
+  <ppid>34</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>102</psid>
+  <ppid>34</ppid>
+  <sid>2</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>103</psid>
+  <ppid>34</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>104</psid>
+  <ppid>34</ppid>
+  <sid>4</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>105</psid>
+  <ppid>34</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>106</psid>
+  <ppid>34</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>107</psid>
+  <ppid>34</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>108</psid>
+  <ppid>34</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>109</psid>
+  <ppid>35</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>110</psid>
+  <ppid>35</ppid>
+  <sid>2</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>111</psid>
+  <ppid>35</ppid>
+  <sid>3</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>112</psid>
+  <ppid>35</ppid>
+  <sid>4</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>113</psid>
+  <ppid>35</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>114</psid>
+  <ppid>35</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>115</psid>
+  <ppid>35</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>116</psid>
+  <ppid>35</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>117</psid>
+  <ppid>36</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>118</psid>
+  <ppid>36</ppid>
+  <sid>2</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>119</psid>
+  <ppid>36</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>120</psid>
+  <ppid>36</ppid>
+  <sid>4</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>121</psid>
+  <ppid>36</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>122</psid>
+  <ppid>36</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>123</psid>
+  <ppid>36</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>124</psid>
+  <ppid>36</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>125</psid>
+  <ppid>37</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>126</psid>
+  <ppid>37</ppid>
+  <sid>2</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>127</psid>
+  <ppid>37</ppid>
+  <sid>3</sid>
+  <psvalue>4</psvalue>
+</row>
+<row>
+  <psid>128</psid>
+  <ppid>37</ppid>
+  <sid>4</sid>
+  <psvalue>3</psvalue>
+</row>
+<row>
+  <psid>129</psid>
+  <ppid>37</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>130</psid>
+  <ppid>37</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>131</psid>
+  <ppid>37</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>132</psid>
+  <ppid>37</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>133</psid>
+  <ppid>38</ppid>
+  <sid>1</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>134</psid>
+  <ppid>38</ppid>
+  <sid>2</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>135</psid>
+  <ppid>38</ppid>
+  <sid>3</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>136</psid>
+  <ppid>38</ppid>
+  <sid>4</sid>
+  <psvalue>2</psvalue>
+</row>
+<row>
+  <psid>137</psid>
+  <ppid>38</ppid>
+  <sid>5</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>138</psid>
+  <ppid>38</ppid>
+  <sid>6</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>139</psid>
+  <ppid>38</ppid>
+  <sid>7</sid>
+  <psvalue>1</psvalue>
+</row>
+<row>
+  <psid>140</psid>
+  <ppid>38</ppid>
+  <sid>8</sid>
+  <psvalue>1</psvalue>
+</row>
+</data>
