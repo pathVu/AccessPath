@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <ioid>23</ioid>
+  <uacctid>7008</uacctid>
+  <iaid>28</iaid>
+  <iospacious>1</iospacious>
+  <iobraillemenu>1</iobraillemenu>
+  <rtid>{1,1,1,1}</rtid>
+  <iorestroomsteps>NULL</iorestroomsteps>
+  <ioramp>1</ioramp>
+  <iosteps>2</iosteps>
+</row>
+<row>
+  <ioid>24</ioid>
+  <uacctid>7008</uacctid>
+  <iaid>29</iaid>
+  <iospacious>1</iospacious>
+  <iobraillemenu>1</iobraillemenu>
+  <rtid>{1,1,1,1}</rtid>
+  <iorestroomsteps>NULL</iorestroomsteps>
+  <ioramp>1</ioramp>
+  <iosteps>0</iosteps>
+</row>
+</data>

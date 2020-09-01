@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <htid>1</htid>
+  <htname>Tripping Hazard</htname>
+  <htactive>1</htactive>
+</row>
+<row>
+  <htid>2</htid>
+  <htname>No Sidewalk</htname>
+  <htactive>1</htactive>
+</row>
+<row>
+  <htid>3</htid>
+  <htname>No Curb Ramp</htname>
+  <htactive>1</htactive>
+</row>
+<row>
+  <htid>4</htid>
+  <htname>Construction</htname>
+  <htactive>1</htactive>
+</row>
+<row>
+  <htid>5</htid>
+  <htname>Other</htname>
+  <htactive>1</htactive>
+</row>
+</data>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <eoid>57</eoid>
+  <uacctid>7008</uacctid>
+  <eid>72</eid>
+  <eoautodoor>1</eoautodoor>
+  <aeramp>1</aeramp>
+  <aesteps>2</aesteps>
+</row>
+<row>
+  <eoid>58</eoid>
+  <uacctid>7008</uacctid>
+  <eid>73</eid>
+  <eoautodoor>1</eoautodoor>
+  <aeramp>1</aeramp>
+  <aesteps>1</aesteps>
+</row>
+<row>
+  <eoid>59</eoid>
+  <uacctid>7008</uacctid>
+  <eid>74</eid>
+  <eoautodoor>0</eoautodoor>
+  <aeramp>0</aeramp>
+  <aesteps>0</aesteps>
+</row>
+<row>
+  <eoid>60</eoid>
+  <uacctid>7008</uacctid>
+  <eid>75</eid>
+  <eoautodoor>1</eoautodoor>
+  <aeramp>1</aeramp>
+  <aesteps>2</aesteps>
+</row>
+</data>

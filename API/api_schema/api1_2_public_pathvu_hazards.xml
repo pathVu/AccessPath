@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <hid>1081</hid>
+  <htype>1</htype>
+  <hlat>40.43763387663619</hlat>
+  <hlon>-79.98617166953959</hlon>
+  <uacctid>5370</uacctid>
+  <hgeometry>0101000000833AC76F1DFF53C017E3096304384440</hgeometry>
+  <himgname>03102020135915.jpg</himgname>
+  <himgpath>http://pathvudata.com/api1/api/crowdsource_data/5370/hazards/</himgpath>
+  <hactive>1</hactive>
+</row>
+</data>

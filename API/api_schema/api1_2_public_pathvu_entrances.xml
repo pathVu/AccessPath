@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <eid>72</eid>
+  <egoogleid>ChIJ8SpSUPj4NIgRFzG9XdoTb5k</egoogleid>
+  <eaddress>3384 Altherton Drive, Bethel Park, PA, USA</eaddress>
+  <elat>40.32647373690766</elat>
+  <elon>-80.06252858787775</elon>
+  <eimgname>04212020093138.jpg</eimgname>
+  <eimgpath>http://pathvudata.com/api1/api/crowdsource_data/7008/entrances/</eimgpath>
+  <uacctid>7008</uacctid>
+  <eactive>1</eactive>
+  <egeometry>01010000000000E877000454C0BA8233E4C9294440</egeometry>
+</row>
+<row>
+  <eid>73</eid>
+  <egoogleid>ChIJ5athUfj4NIgRKkoT9WH7TCY</egoogleid>
+  <eaddress>3380 Altherton Drive, Bethel Park, PA, USA</eaddress>
+  <elat>40.32623653573895</elat>
+  <elon>-80.06239984184504</elon>
+  <eimgname>04212020093238.jpg</eimgname>
+  <eimgpath>http://pathvudata.com/api1/api/crowdsource_data/7008/entrances/</eimgpath>
+  <uacctid>7008</uacctid>
+  <eactive>1</eactive>
+  <egeometry>01010000000000E85BFE0354C02BE1691EC2294440</egeometry>
+</row>
+<row>
+  <eid>74</eid>
+  <egoogleid>ChIJ5athUfj4NIgRKkoT9WH7TCY</egoogleid>
+  <eaddress>3380 Altherton Drive, Bethel Park, PA, USA</eaddress>
+  <elat>40.326361270940204</elat>
+  <elon>-80.06211284548044</elon>
+  <eimgname>04212020093330.jpg</eimgname>
+  <eimgpath>http://pathvudata.com/api1/api/crowdsource_data/7008/entrances/</eimgpath>
+  <uacctid>7008</uacctid>
+  <eactive>1</eactive>
+  <egeometry>0101000000000028A8F90354C041AFC434C6294440</egeometry>
+</row>
+<row>
+  <eid>75</eid>
+  <egoogleid>ChIJ5athUfj4NIgRKkoT9WH7TCY</egoogleid>
+  <eaddress>3380 Altherton Drive, Bethel Park, PA, USA</eaddress>
+  <elat>40.32621608732331</elat>
+  <elon>-80.06239715963602</elon>
+  <eimgname>04212020131934.jpg</eimgname>
+  <eimgpath>http://pathvudata.com/api1/api/crowdsource_data/7008/entrances/</eimgpath>
+  <uacctid>7008</uacctid>
+  <eactive>1</eactive>
+  <egeometry>01010000000000A850FE0354C0C93DE172C1294440</egeometry>
+</row>
+</data>

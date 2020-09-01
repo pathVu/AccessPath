@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <f_table_catalog>api1_2</f_table_catalog>
+  <f_table_schema>public</f_table_schema>
+  <f_table_name>pathvu_hazards</f_table_name>
+  <f_geometry_column>hgeometry</f_geometry_column>
+  <coord_dimension>2</coord_dimension>
+  <srid>0</srid>
+  <type>GEOMETRY</type>
+</row>
+<row>
+  <f_table_catalog>api1_2</f_table_catalog>
+  <f_table_schema>public</f_table_schema>
+  <f_table_name>pathvu_entrances</f_table_name>
+  <f_geometry_column>egeometry</f_geometry_column>
+  <coord_dimension>2</coord_dimension>
+  <srid>0</srid>
+  <type>GEOMETRY</type>
+</row>
+<row>
+  <f_table_catalog>api1_2</f_table_catalog>
+  <f_table_schema>public</f_table_schema>
+  <f_table_name>pathvu_indoor</f_table_name>
+  <f_geometry_column>igeometry</f_geometry_column>
+  <coord_dimension>2</coord_dimension>
+  <srid>0</srid>
+  <type>GEOMETRY</type>
+</row>
+</data>

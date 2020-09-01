@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <tid>1</tid>
+  <tname>Blind/Visually Impaired</tname>
+  <tactive>1</tactive>
+</row>
+<row>
+  <tid>2</tid>
+  <tname>Sighted and Walking</tname>
+  <tactive>1</tactive>
+</row>
+<row>
+  <tid>3</tid>
+  <tname>Wheelchair/Scooter User</tname>
+  <tactive>1</tactive>
+</row>
+<row>
+  <tid>4</tid>
+  <tname>Cane/Walker User</tname>
+  <tactive>1</tactive>
+</row>
+</data>

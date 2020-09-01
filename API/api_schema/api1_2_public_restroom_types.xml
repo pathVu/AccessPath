@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <rtid>1</rtid>
+  <rtname>Male/Female</rtname>
+  <rtactive>1</rtactive>
+</row>
+<row>
+  <rtid>2</rtid>
+  <rtname>Family</rtname>
+  <rtactive>1</rtactive>
+</row>
+<row>
+  <rtid>3</rtid>
+  <rtname>ADA Accessible</rtname>
+  <rtactive>1</rtactive>
+</row>
+<row>
+  <rtid>4</rtid>
+  <rtname>Locked Door</rtname>
+  <rtactive>1</rtactive>
+</row>
+</data>
