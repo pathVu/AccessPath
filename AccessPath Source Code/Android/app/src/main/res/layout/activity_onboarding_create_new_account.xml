@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OnboardingCreateNewAccount">
+
+    <View
+        android:id="@+id/headerView"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/rounded_button_white"
+        android:cropToPadding="false"
+        android:onClick="back"
+        android:padding="4dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_arrow_back_black_24dp" />
+
+    <TextView
+        android:id="@+id/backButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/interui"
+        android:text="Back"
+        android:textColor="@color/dark_blue_text"
+        app:layout_constraintBottom_toBottomOf="@+id/backButton"
+        app:layout_constraintStart_toEndOf="@+id/backButton"
+        app:layout_constraintTop_toTopOf="@+id/backButton" />
+
+    <ImageView
+        android:id="@+id/progressDot1"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/page_dot"
+        app:layout_constraintBottom_toBottomOf="@+id/backButton"
+        app:layout_constraintEnd_toStartOf="@+id/progressDot2"
+        app:layout_constraintTop_toTopOf="@+id/backButton" />
+
+    <ImageView
+        android:id="@+id/progressDot4"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/blank_page_dot_"
+        app:layout_constraintBottom_toBottomOf="@+id/progressDot1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/progressDot1"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/progressDot2"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/blank_page_dot_"
+        app:layout_constraintBottom_toBottomOf="@+id/progressDot1"
+        app:layout_constraintEnd_toStartOf="@+id/progressDot3"
+        app:layout_constraintTop_toTopOf="@+id/progressDot1" />
+
+    <ImageView
+        android:id="@+id/progressDot3"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/blank_page_dot_"
+        app:layout_constraintBottom_toBottomOf="@+id/progressDot1"
+        app:layout_constraintEnd_toStartOf="@+id/progressDot4"
+        app:layout_constraintTop_toTopOf="@+id/progressDot1"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/bigMessage"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/interui"
+        android:text="Create a New Account"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headerView" />
+
+    <Button
+
+        android:id="@+id/facebookLogInButton"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button_facebook"
+        android:color="@color/light_blue"
+        android:fontFamily="@font/interui"
+        android:text="Sign Up with Facebook"
+        android:textAllCaps="false"
+        android:textColor="@color/facebook_blue"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:onClick="fbSignUp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bigMessage" />
+
+    <ImageView
+        android:id="@+id/facebookSignUpIcon"
+        android:layout_width="14.637dp"
+        android:layout_height="25.33dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="8dp"
+        android:elevation="2dp"
+        app:layout_constraintBottom_toBottomOf="@+id/facebookLogInButton"
+        app:layout_constraintStart_toStartOf="@+id/facebookLogInButton"
+        app:layout_constraintTop_toTopOf="@+id/facebookLogInButton"
+        app:srcCompat="@drawable/facebook_icon" />
+
+    <Button
+
+        android:id="@+id/googleLogInButton"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/google_button"
+        android:color="@color/light_blue"
+        android:fontFamily="@font/interui"
+        android:onClick="googleSignUp"
+        android:text="Sign Up with Google"
+        android:textAllCaps="false"
+        android:textColor="@color/google_blue"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/facebookLogInButton" />
+
+    <ImageView
+        android:id="@+id/googleSignUpIcon"
+        android:layout_width="23.792dp"
+        android:layout_height="24.094dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/googleLogInButton"
+        app:layout_constraintStart_toStartOf="@+id/googleLogInButton"
+        app:layout_constraintTop_toTopOf="@+id/googleLogInButton"
+        app:srcCompat="@drawable/small_google_icon" />
+
+    <Button
+
+        android:id="@+id/guestSignUpButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/yellow_button"
+        android:color="@color/light_blue"
+        android:fontFamily="@font/interui"
+        android:text="pathVu Guest Account"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:onClick="guestSignUp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/googleLogInButton" />
+
+    <Button
+
+        android:id="@+id/emailLogInButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/rounded_button_orange"
+        android:color="@color/light_blue"
+        android:fontFamily="@font/interui"
+        android:onClick="screen5"
+        android:text="Sign Up with Name and Email"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/setButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/emailSignUpArrow"
+        android:layout_width="15dp"
+        android:layout_height="47dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="8dp"
+        android:elevation="2dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/emailLogInButton"
+        app:layout_constraintEnd_toEndOf="@+id/emailLogInButton"
+        app:layout_constraintTop_toTopOf="@+id/emailLogInButton"
+        app:srcCompat="@drawable/button_arrow_big"
+        tools:elevation="2dp" />
+
+    <Button
+
+        android:id="@+id/setButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button_blue"
+        android:fontFamily="@font/interui"
+        android:text="Already Signed Up? Log In."
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:onClick="signIn"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/continueButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

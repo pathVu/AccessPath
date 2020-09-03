@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="darkBlue">#292340</color>
+    <color name="orange">#ff9500</color>
+    <color name="clear_orange">#fff7ec</color>
+    <color name="light_blue">#C4F2F3</color>
+    <color name="dark_blue">#292340</color>
+    <color name="dark_blue_text">#292440</color>
+    <color name="grey_text">#C7C6CB</color>
+    <color name="background_white">#ffffff</color>
+    <color name="guest_yellow">#FDD734</color>
+    <color name="system_banner_red">#eb6262</color>
+    <color name="system_strong_red">#df2626</color>
+    <color name="system_banner_green">#c8dc5c</color>
+    <color name="button_border">#292440</color>
+    <color name="clear">#00ffffff</color>
+    <color name="foreground_material_light">#ffffff</color>
+    <color name="background_material_light">#ffffff</color>
+    <color name="facebook_blue">#3d5a97</color>
+    <color name="google_blue">#3e81f0</color>
+    <color name="redSettingBkgd">#f7ebeb</color>
+    <color name="redSettingBorder">#eb6161</color>
+    <color name="good_dark_green">#00771f</color>
+    <color name="light_gray">#F4F4F4</color>
+
+    <!-- nick -->
+
+    <color name="justWhite">#fff</color>
+    <color name="groupButtonsIdleBorder">#c2f2f4</color>
+    <color name="groupButtonsSelectedBorder">#ff9500</color>
+    <color name="groupButtonsSelectedBg">#fff7ec</color>
+    <color name="searchListBg">#ecf7f8</color>
+    <color name="searchListBorder">#c4f2f3</color>
+
+    <!-- forms -->
+
+    <color name="idleBorder">#292440</color>
+    <color name="focusBackground">#f4f4f4</color>
+    <color name="focusBorder">#292440</color>
+    <color name="validBackground">#f5f7e9</color>
+    <color name="validBorder">#c8dc5c</color>
+    <color name="erroBackground">#f8ebeb</color>
+    <color name="errorBorder">#eb6262</color>
+</resources>

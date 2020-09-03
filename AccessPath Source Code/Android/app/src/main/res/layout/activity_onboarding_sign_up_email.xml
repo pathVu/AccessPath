@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    android:focusable="true"
+    tools:context=".OnboardingSignUpEmail">
+
+    <View
+        android:id="@+id/headerView"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/rounded_button_white"
+        android:cropToPadding="false"
+        android:onClick="back"
+        android:padding="4dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_arrow_back_black_24dp" />
+
+    <TextView
+        android:id="@+id/backButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/interui"
+        android:text="Back"
+        android:textColor="@color/dark_blue_text"
+        app:layout_constraintBottom_toBottomOf="@+id/backButton"
+        app:layout_constraintStart_toEndOf="@+id/backButton"
+        app:layout_constraintTop_toTopOf="@+id/backButton" />
+
+    <ImageView
+        android:id="@+id/progressDot1"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/page_dot"
+        app:layout_constraintBottom_toBottomOf="@+id/backButton"
+        app:layout_constraintEnd_toStartOf="@+id/progressDot2"
+        app:layout_constraintTop_toTopOf="@+id/backButton" />
+
+    <ImageView
+        android:id="@+id/progressDot2"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/page_dot"
+        app:layout_constraintBottom_toBottomOf="@+id/progressDot1"
+        app:layout_constraintEnd_toStartOf="@+id/progressDot3"
+        app:layout_constraintTop_toTopOf="@+id/progressDot1" />
+
+    <ImageView
+        android:id="@+id/progressDot3"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/blank_page_dot_"
+        app:layout_constraintBottom_toBottomOf="@+id/progressDot1"
+        app:layout_constraintEnd_toStartOf="@+id/progressDot4"
+        app:layout_constraintTop_toTopOf="@+id/progressDot1"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/progressDot4"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/blank_page_dot_"
+        app:layout_constraintBottom_toBottomOf="@+id/progressDot1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/progressDot1"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/bigMessage"
+        android:layout_width="283dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/interui"
+        android:text="Sign Up Using Your Name and Email"
+        android:textColor="@color/dark_blue"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headerView" />
+
+    <TextView
+        android:id="@+id/descriptionText"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/interui"
+        android:text="All fields are required."
+        android:textColor="@color/dark_blue_text"
+        app:layout_constraintStart_toStartOf="@+id/bigMessage"
+        app:layout_constraintTop_toBottomOf="@+id/bigMessage" />
+
+    <EditText
+        android:id="@+id/firstNameBox"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/form_idle"
+        android:ems="10"
+        android:fontFamily="@font/interui"
+        android:hint="Enter your first name"
+        android:inputType="textPersonName"
+        android:textColor="@color/dark_blue_text"
+        android:paddingLeft="20dp"
+        android:textColorHint="@color/dark_blue_text"
+        android:textCursorDrawable="@null"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/firstNameStatusLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/descriptionText" />
+
+    <ImageView
+        android:id="@+id/firstNameStatusIcon"
+        android:layout_width="25dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/firstNameBox"
+        app:layout_constraintEnd_toEndOf="@+id/firstNameBox"
+        app:layout_constraintTop_toTopOf="@+id/firstNameBox"
+        app:srcCompat="@drawable/incorrect_icon" />
+
+    <TextView
+        android:id="@+id/firstNameStatusLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/lastNameBox"
+        app:layout_constraintStart_toStartOf="@+id/firstNameBox"
+        app:layout_constraintTop_toBottomOf="@+id/firstNameBox" />
+
+    <EditText
+        android:id="@+id/lastNameBox"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/text_input_background"
+        android:ems="10"
+        android:fontFamily="@font/interui"
+        android:hint="Enter your last name"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:textColor="@color/dark_blue_text"
+        android:textColorHint="@color/dark_blue_text"
+        android:textCursorDrawable="@null"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/lastNameStatusLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/firstNameStatusLabel" />
+
+    <ImageView
+        android:id="@+id/lastNameStatusIcon"
+        android:layout_width="25dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/lastNameBox"
+        app:layout_constraintEnd_toEndOf="@+id/lastNameBox"
+        app:layout_constraintTop_toTopOf="@+id/lastNameBox"
+        app:srcCompat="@drawable/incorrect_icon" />
+
+    <TextView
+        android:id="@+id/lastNameStatusLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginTop="2dp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/emailAddressBox"
+        app:layout_constraintStart_toStartOf="@+id/lastNameBox"
+        app:layout_constraintTop_toBottomOf="@+id/lastNameBox" />
+
+    <EditText
+        android:id="@+id/emailAddressBox"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/text_input_background"
+        android:ems="10"
+        android:fontFamily="@font/interui"
+        android:hint="Enter your email address"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="20dp"
+        android:textColor="@color/dark_blue_text"
+        android:textColorHint="@color/dark_blue_text"
+        android:textCursorDrawable="@null"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/emailStatusLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lastNameStatusLabel" />
+
+    <ImageView
+        android:id="@+id/emailStatusIcon"
+        android:layout_width="25dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/emailAddressBox"
+        app:layout_constraintEnd_toEndOf="@+id/emailAddressBox"
+        app:layout_constraintTop_toTopOf="@+id/emailAddressBox"
+        app:srcCompat="@drawable/incorrect_icon" />
+
+    <TextView
+        android:id="@+id/emailStatusLabel"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/redSettingBorder"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/passwordFieldBox"
+        app:layout_constraintStart_toStartOf="@+id/emailAddressBox"
+        app:layout_constraintTop_toBottomOf="@+id/emailAddressBox" />
+
+    <EditText
+        android:id="@+id/passwordFieldBox"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/text_input_background"
+        android:ems="10"
+        android:fontFamily="@font/interui"
+        android:hint="Enter your password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp"
+        android:textColor="@color/dark_blue_text"
+        android:textColorHint="@color/dark_blue_text"
+        android:textCursorDrawable="@null"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/passwordStatusLabel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailStatusLabel" />
+
+    <ImageView
+        android:id="@+id/passwordStatusIcon"
+        android:layout_width="25dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/passwordFieldBox"
+        app:layout_constraintEnd_toEndOf="@+id/passwordFieldBox"
+        app:layout_constraintTop_toTopOf="@+id/passwordFieldBox"
+        app:srcCompat="@drawable/incorrect_icon" />
+
+    <TextView
+        android:id="@+id/passwordStatusLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/acceptButton"
+        app:layout_constraintStart_toStartOf="@+id/passwordFieldBox"
+        app:layout_constraintTop_toBottomOf="@+id/passwordFieldBox" />
+
+    <Button
+
+        android:id="@+id/acceptButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rounded_button_orange"
+        android:fontFamily="@font/interui"
+        android:onClick="submitUser"
+        android:text="Accept and Continue to Profile Name"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/cancelButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/acceptArrow"
+        android:layout_width="15dp"
+        android:layout_height="47dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:elevation="2dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/acceptButton"
+        app:layout_constraintEnd_toEndOf="@+id/acceptButton"
+        app:layout_constraintTop_toTopOf="@+id/acceptButton"
+        app:srcCompat="@drawable/button_arrow_big"
+        tools:elevation="2dp" />
+
+    <Button
+
+        android:id="@+id/cancelButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button_blue"
+        android:fontFamily="@font/interui"
+        android:onClick="back"
+        android:text="Cancel"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/continueButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

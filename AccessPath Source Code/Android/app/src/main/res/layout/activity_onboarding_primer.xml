@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OnboardingPrimer">
+
+    <ImageView
+        android:id="@+id/locationIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/med_res_background_map" />
+
+    <TextView
+        android:id="@+id/sloganText"
+        android:layout_width="284dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fadingEdge="horizontal|vertical"
+        android:fontFamily="@font/interui"
+        android:text="@string/app_slogan"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pvLogo" />
+
+    <Button
+
+        android:id="@+id/continueButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/rounded_button_orange"
+        android:fontFamily="@font/interui"
+        android:onClick="screen2"
+        android:text="Let's get started"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/signInButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/letsGetStartedArrow"
+        android:layout_width="15dp"
+        android:layout_height="47dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="8dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/continueButton"
+        app:layout_constraintEnd_toEndOf="@+id/continueButton"
+        app:layout_constraintTop_toTopOf="@+id/continueButton"
+        app:srcCompat="@drawable/button_arrow_big"
+        tools:elevation="2dp" />
+
+    <Button
+
+        android:id="@+id/signInButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/rounded_button_blue"
+        android:fontFamily="@font/interui"
+        android:onClick="SignIn"
+        android:text="Already Signed Up? Log In."
+        android:textAllCaps="false"
+
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/pvLogo"
+        app:srcCompat="@drawable/pathvu_logo"
+        android:layout_width="284dp"
+        android:layout_height="100dp"
+        android:layout_marginEnd="8dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="148dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="@+id/sloganText"
+        app:layout_constraintRight_toRightOf="@+id/sloganText"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

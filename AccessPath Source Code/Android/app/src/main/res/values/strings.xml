@@ -1,0 +1,286 @@
+<resources>
+    <string name="app_name">AccessPath2020</string>
+    <string name="app_slogan">Putting Sidewalks \n on the Map</string>
+    <string name="uacctid_key">uacctid</string>
+    <string name="user_preferences">user_preferences</string>
+    <string name="toa">September 1, 2020\n
+ACCESSPATH APP TERMS AND CONDITIONS OF USE \n
+\n
+Thank you for your interest in AccessPath and for downloading the AccessPath mobile device application (the “Application”) providing access to AccessPath content and services, including without limitation, sidewalk hazard flagging, the photo upload, geotagging, pedestrian navigation, and hosting services (collectively, such content and services, together with the Application, are referred to herein as the “AccessPath Services”), and all provided by Pathway Accessibility Solutions, Inc. (“Licensor”).  Download, installation and use of the Application, and access to AccessPath Services, however accessed, are all offered to you, the individual user, by Licensor subject strictly to the terms and conditions set forth below. \n
+\n
+PLEASE READ THIS DOCUMENT CAREFULLY!  THESE LICENSE AND SERVICES TERMS OF USE (THE “TERMS OF USE”) GOVERN YOUR DOWNLOAD AND USE OF THE APPLICATION AND ACCESSPATH SERVICES INCLUDING IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS AS WELL AS LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU.  PLEASE PRINT OUT A COPY OF THESE TERMS OF USE TO KEEP FOR YOUR OWN RECORDS.  THE MOST CURRENT VERSIONS OF THESE TERMS IS AVAILABLE IN THE APPLICATION.   \n
+\n
+By downloading, installing and/or using the Application, or otherwise accessing or using the AccessPath Services, as applicable, you (the “User” or “you”) acknowledge your legally binding acceptance of and agreement to these Terms of Use. If you do not agree to these Terms of Use, you are not authorized to use the Application or any other AccessPath Services and should discontinue any use of the Application, and all other AccessPath Services. \n
+\n
+ARBITRATION NOTICE:  UNLESS YOU OPT-OUT AND/OR EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION SECTION BELOW,YOU AGREE THAT DISPUTES BETWEEN YOU AND LICENSOR WILL BE RESOLVED BY MANDATORY, BINDING ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.\n
+\n
+1. GENERAL TERMS\n
+\n
+1.1	Licenses.\n
+1.1.1	Subject to the terms and conditions of this Agreement, Licensor hereby grants to you a personal, fully revocable, non-transferable and non-exclusive license to (a) download, install and use the Application on a mobile device that you own or control for the sole purpose of accessing the AccessPath Services, any upgrades, updates or corrections thereto provided by Licensor to you, if any, and related user documentation  offered by Licensor to you; and (b) access and use the AccessPath Services exclusively through the Application within the United States.  Licensor reserves the right to refuse access to the AccessPath Services to anyone for any reason at any time.\n
+\n
+1.2 Not Intended for Children Age of 13 or Under.  Licensor offers the AccessPath Services exclusively for the use of individuals who are over the age of 13.  Content made available through AccessPath Services will be geotagged.  We do not solicit or knowingly collect personal information from persons under the age of thirteen, and we do not knowingly market our products or services to persons under such age.  Accounts of Users under the age of 13 years will be cancelled and deleted by Licensor, upon receiving notice at contact@pathvu.com. \n
+\n
+1.2	AccessPath Content.  \n
+1.2.1	You may not, under any circumstances, copy, access or otherwise use AccessPath Services separate or apart from your use of the Application, whether to create a derivative work of all or any part of the AccessPath Services or otherwise.  Additionally, by way of example, and not limitation, unless expressly authorized under these Terms of Use, you may not sublicense, alter, adapt, transmit, publicly perform or display, distribute, customize, modify, add to, delete from, create derivative works based upon any portion of the AccessPath Services, copy, screen capture, counterfeit or paste content available through AccessPath Services, excepting User Content as discussed below, (“AccessPath Content”) to any other website or web page.  Licensor does not claim ownership of User Content that you post or generate on or through AccessPath Services.  Such User Content is more specifically addressed in Section 1.7 below.  AccessPath Content available through AccessPath Services includes content owned or licensed by Licensor and the United States Department of Transportation (“USDOT”).  AccessPath Content is protected by copyright, trademark, patent, trade secret and other laws, and, as between you and Licensor, Licensor owns and retains all rights in AccessPath Services, including without limitation the Application and AccessPath Content.  Without Licensor\'s prior written consent, you may not, and may not permit others to: (a) modify or create any derivative works of the Application, AccessPath Content or its components; (b) decompile, disassemble, reverse engineer, reduce the Application or any other AccessPath Services to perceptible form, or otherwise attempt to learn the source code, structure, algorithms or ideas underlying the Application or other AccessPath Services that include software (except to the extent applicable laws specifically prohibit such restriction); (c) sell, distribute or otherwise make available the AccessPath Services or components thereof, or this license, in any way; (d) repackage or bundle the Application with other software: or (e) remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels in the Application, the AccessPath Services or AccessPath Content. You acknowledge and agree that modification of the AccessPath Content or use of the AccessPath Content for any other purpose is a violation of Licensor\'s, our licensors\' and suppliers\' and possibly other third parties\' copyright and proprietary rights. You agree to use the AccessPath Services only for purposes which are lawful in applicable national and local jurisdictions and all subdivisions thereof. If you violate any provision of these Terms of Use, your permission to use and access the AccessPath Services automatically terminates and you must immediately cease use of the AccessPath Services. Any other use or exploitation of the AccessPath Services, including without limitation the Application and the AccessPath Content, is strictly prohibited. You agree not to interrupt, or attempt to interrupt, the operation of the AccessPath Services in any way.\n
+\n
+1.3 Disclaimer; Nature of Services. THE ACCESSPATH SERVICES, INCLUDING, WITHOUT LIMITATION, THE APPLICATION AND ACCESSPATH CONTENT, IS PROVIDED ON AN “AS IS”, “AS AVAILABLE” AND “WITH ALL FAULTS” BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, NEITHER LICENSOR NOR ITS EMPLOYEES, MANAGERS, OFFICERS, AGENTS, LICENSORS, OR SUPPLIERS (COLLECTIVELY, THE “LICENSOR PARTIES”) MAKE ANY REPRESENTATIONS OR WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, AS TO: (A) THE APPLICATION; (B) THE ACCESSPATH SERVICES; (C) THE ACCESSPATH CONTENT; (D) USER CONTENT; OR (E) SECURITY ASSOCIATED WITH THE TRANSMISSION OF INFORMATION TO, OR FROM, LICENSOR OR VIA THE ACCESSPATH SERVICES. IN ADDITION, THE LICENSOR PARTIES HEREBY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, SYSTEM INTEGRATION AND FREEDOM FROM COMPUTER VIRUS.  NOTHING HEREIN SHALL BE CONSTRUED AS A WARRANTY OF COMPATIBILITY WITH ANY PARTICULAR MOBILE/COMPUTING DEVICE, OPERATING SYSTEM, OR OTHER SOFTWARE RESIDENT ON YOUR DEVICE. \n
+\n
+THE LICENSOR PARTIES DO NOT REPRESENT OR WARRANT THAT THE ACCESSPATH SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED; THAT DEFECTS WILL BE CORRECTED; OR THAT THE ACCESSPATH SERVICES OR THE SERVER(S) THAT MAKES THE ACCESSPATH SERVICES AVAILABLE IS FREE FROM ANY HARMFUL COMPONENTS, INCLUDING, WITHOUT LIMITATION, VIRUSES. THE LICENSOR PARTIES DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT THE INFORMATION (INCLUDING ANY INSTRUCTIONS) ON THE ACCESSPATH SERVICES IS TRUE, VALID, ACCURATE, COMPLETE, OR USEFUL. YOU ACKNOWLEDGE THAT YOUR USE OF THE ACCESSPATH SERVICES IS AT YOUR SOLE RISK AND YOU EXPRESSLY ASSUME AND HEREBY EXPRESSLY RELEASE THE LICENSOR PARTIES FROM ALL LIABILITY, IN TORT, CONTRACT OR OTHERWISE, INCURRED IN CONNECTION WITH THE USE OF THE APPLICATION AND THE OTHER ACCESSPATH SERVICES. THE LICENSOR PARTIES DO NOT WARRANT THAT YOUR USE OF THE ACCESSPATH SERVICES IS LAWFUL IN ANY PARTICULAR JURISDICTION, AND THE LICENSOR PARTIES SPECIFICALLY DISCLAIM SUCH WARRANTIES. \n
+\n
+BY ACCESSING OR USING THE SERVICE YOU REPRESENT AND WARRANT THAT YOUR ACTIVITIES ARE LAWFUL IN EVERY JURISDICTION WHERE YOU ACCESS OR USE THE SERVICE. \n
+\n
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE ACCESSPATH SERVICES OR WITH THE DELAY OR INABILITY TO USE THE ACCESSPATH SERVICES, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. Licensor makes no warranties, express or implied, that the use of the AccessPath Services does not infringe any patent or copyright of any third party. \n
+\n
+1.4 Account; Location-Based Service.  You may access or use the Application and AccessPath Services without setting up a username and password.  Licensor will link all of your information with a unique identifier generated by Licensor that is not tied to personally identifiable information. Take note that AccessPath Services makes use of detailed location information, for example in the form of GPS signals and other information sent by your mobile device on which the Application is installed and activated. AccessPath Services cannot be provided without utilizing this technology.\n
+\n
+1.4.1  Username/Password. You may be asked to create a username and password (combined, the “User Identity”).  You shall hold and secure any such User Identity as strictly confidential. Third parties with knowledge of your User Identity can gain access to your account information and take other actions for which you will be held accountable and liable. Licensor is entitled to, and will, assume that any person using the AccessPath Services under your User Identity is you and will hold you liable and responsible for all actions and/or statements made under your User Identity.  Licensor shall not be responsible whatsoever in the event that your User Identity is used by an unauthorized entity or misappropriated by a third party. \n
+\n
+1.4.1.1. We reserve the right to refuse or reject any username for any reason and/or force forfeiture of any username at any time for any reason.  If you provide any information that is untrue, inaccurate, not current or incomplete, Licensor has the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).\n
+\n
+1.5 Posted Materials. ANY COMMUNICATION OF MATERIAL YOU TRANSMIT TO LICENSOR VIA THE ACCESSPATH SERVICES, OR OTHERWISE BY UPLOAD, POSTING, ELECTRONIC MAIL OR OTHERWISE, INCLUDING ANY IMAGE, VIDEO, MULTIMEDIA, DATA, QUESTIONS, COMMENTS, SUGGESTIONS OR THE LIKE IS, AND WILL BE TREATED AS, NON-CONFIDENTIAL AND NON-PROPRIETARY.  Except as expressly set forth below or in our Privacy Policy, anything you transmit or post may be used by Licensor for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting.  Furthermore, Licensor is free to use any ideas, concepts, know-how, or techniques contained in any communication you send to Licensor for any purpose whatsoever, including, but not limited to, developing, manufacturing, and marketing products using such information without incurring any obligation whatsoever to you, and by sending such communication, you waive all your rights thereto. You agree that you are solely responsible for all data charges you incur in the use of the AccessPath Services, including without limitation data charges incurred in uploading images from a mobile device to the AccessPath Services using a cellular data connection.\n
+\n
+1.5.1.  User Content.  AccessPath does not claim ownership of any images or other material that you transmit, post, upload, create, or generate on or through AccessPath Services (“User Content”).  However, by transmitting, posting, uploading, creating or generating such User Content on or through AccessPath Services, you automatically grant to Licensor a worldwide, royalty-free, sublicensable, perpetual, irrevocable, non-exclusive, transferable right and license to use, reproduce, modify, adapt, publish, edit, translate, distribute, publicly perform, display and otherwise exploit such material, including, but not limited to, all rights in copyright to such material and all elements thereof alone or as part of other works, throughout the universe, in perpetuity, in any form, media, or technology, whether now known or hereafter devised, and to sublicense such rights through multiple tiers of sublicenses, all without any obligation to you or any third parties, whether by way of compensation, attribution or otherwise.  Such license granted to Licensor extends to any commercial use of User Content, at Licensor\'s sole and absolute discretion. You agree that Licensor is not responsible for, and does not endorse, User Content posted within the AccessPath Services. Licensor does not have any obligation to prescreen, monitor, edit, or remove any User Content, however Licensor may, but have no obligation to, remove, edit, block, and/or monitor User Content or User accounts containing User Content that Licensor determines in its sole discretion violates these Terms of Use.  If your User Content violates these Terms of Use, you may bear legal responsibility for such User Content.\n
+\n
+1.5.2 You acknowledge and agree that you elect to share or publish your User Content through the AccessPath Services at your own risk.  You acknowledge and agree that, once you have posted your User Content, AccessPath cannot thereafter guarantee that such posted User Content can be deleted from the AccessPath Services. You agree that AccessPath is not responsible or liable for the conduct of any User. Please take note that no security measures are perfect or impenetrable. We cannot control the actions of other users. Therefore, we cannot and do not guarantee that your account information or User Content that you may share or publish through AccessPath Services, will not be accessible to the general public or otherwise viewed by unauthorized persons. We are not responsible for circumvention of any security measures we provide. You understand and acknowledge that, even after removal, User Content may remain viewable in cached and archived pages or if other users have copied or stored all, or parts of, such information.\n
+\n
+1.5.3 You represent, warrant, and guarantee that (a) you have the full and unrestricted right to grant the rights to User Content as set forth in Section 1.7.1 above, and that there are no other agreements with any third party in conflict herewith; (b) posting and use of your User Content on or through the AccessPath Services do not violate, misappropriate, or infringe on the rights of any third party, including without limitation, privacy rights, publicity and likeness rights, copyrights, trademark and/or other intellectual property rights; (c) Licensor\'s exercise of its rights granted by you hereunder shall not infringe upon any copyright or any other subsisting right of any third party; (d) you agree to pay for all royalties, fees, and any other monies or obligations owed by reason of User Content you post on or through the AccessPath Services; (e) your User Content will comply in all respects with the Acceptable Use Policy set forth below; and (f) you have the legal right and capacity to enter into these Terms of Use in your jurisdiction. You waive any and all so-called “Moral Rights” or similar rights under any jurisdiction, now or hereafter recognized with respect to Licensor\'s (or its assignee’s) exercise of its rights hereunder. Moreover, you agree to indemnify and hold Licensor harmless from and against any and all claims, demands, damages, losses, liabilities and causes of action of any kind or character, made by you or any third party against Licensor, arising out of or relating to Licensor’s exercise of such rights to User Content, your publication or transmittal of any materials, or your failure to comply or your alleged failure to comply with these Terms of Use.  This defense and indemnification obligation shall survive this Agreement and your use of the Application and/or the AccessPath Services. \n
+\n
+1.6 Objectionable Material. You understand that through your use of the AccessPath Services you may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as such. Pursuant to Section 1.7.1, Licensor does not have any obligation to monitor or remove any User Content. However, Licensor requests that you report content which you deem objectionable to contact@pathvu.com. You agree to use the AccessPath Services at your sole risk and that Licensor shall have no liability to you for the type of content that you may access, including without limitation content that you may find offensive, indecent, or objectionable.\n
+\n
+1.7  Links to Other Sites.  AccessPath Services may provide access and/or hyperlinks to other third party sites and content on the Internet. Such third party sites and content so linked have not necessarily been reviewed by Licensor and are maintained by third parties over which Licensor exercises no control. Licensor expressly disclaims any responsibility for the i) content or accuracy of information contained on such linked content; ii) quality of any product or service provided by or advertised in or by any such third party content. Licensor neither endorses nor makes any representation regarding any linked site, product, service and/or content, and we advise you to assess for yourself the adequacy and appropriateness of any linked site, product, service and/or content for your own purposes. Licensor expressly disclaims any responsibility for the quality, adequacy, or appropriateness of any product or service provided by or advertised by any linked site.\n
+\n
+1.8 No Right To Continued Service. With prior approval by USDOT, Licensor reserves the right to amend the Application, AccessPath Services and/or the interface, functionality and/or operation of the Application or the AccessPath Services at any timeUSDOT.  At any time without notice, Licensor may add, delete or disable content, and/or add, delete, disable or modify some or all of the AccessPath Services, and you acknowledge: (1) that you may no longer be able to use the Application, and/or other aspects of the AccessPath Services to the same extent - or at all - as prior to such change or discontinuation, and (2) that Licensor shall have no liability to you in such case. In no event will Licensor be liable for the removal of or disabling of access to any content, materials or functionality. Licensor may also impose limits on the use of or access to certain features or portions of the content, other aspects or components of the AccessPath Services, in any case and without notice or liability. \n
+ \n
+1.9 Esri Maps.  The Application and AccessPath Services rely on the ArcGIS Maps service provided by Environmental Systems Research Institute, Inc. (“sEri”).  By using the Application and AccessPath Services, you agree and acknowledge that use of Esri Maps functionality integrated into the Application is subject to the Esri Master Agreement (http://www.esri.com/~/media/Files/Pdfs/legal/pdfs/ma-full/ma-full.pdf).\n
+\n
+2. OWNERSHIP AND INTELLECTUAL PROPERTY\n
+2.1 Ownership. Licensor and USDOT are the owners and proprietors of the AccessPath Services.  The AccessPath Services, including without limitation the Application, AccessPath Content, and storage, processing and hosting of User Content, as accessed through the AccessPath Services are offered to you by Licensor for limited use pursuant to these Terms of Use.  (For Public Use): You agree and acknowledge that you shall not acquire any ownership rights by accessing or downloading AccessPath Content through the AccessPath Services or otherwise.\n
+\n
+2.2 Copyright.  Unauthorized use of any material accessed through or contained on the AccessPath Services, may violate copyright laws, trademark laws, trade secret laws, the laws of privacy and publicity, and other regulations and statutes.  AccessPath Content is owned by Licensor and/or its licensors, USDOT, and content providers and is protected by applicable domestic and international copyright laws.  The compilation of all AccessPath Content through the AccessPath Services and its presentation through the Application is the exclusive property of Licensor and USDOT and protected by U.S. and international copyright laws.  Text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, presented on or through the AccessPath Services is Copyrighted by Pathway Accessibility Solutions, Inc. All rights reserved. Any rights not expressly granted to you herein are reserved. Any violation of copyright laws may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.\n
+\n
+2.3 Trademark. “pathVu”, the pathVu logo, and all graphics, logos, page headers, titles, button icons, scripts, service names and other trademarks and service marks on the AccessPath Services are trademarks, trade dress and service marks belonging to Licensor or its licensors (the “Licensor Marks”). Without written consent, Licensor Marks may not be used in connection with any product or service that is not related to Licensor or the AccessPath Services, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Licensor or the AccessPath Services. Licensor Marks may not be copied, imitated or used, in whole or in part, without prior written permission from Licensor.  All other trademarks not owned by Licensor that appear via the AccessPath Services are the property of their respective owners, who may or may not be affiliated with, connected to, sponsor, or sponsored by Licensor.   Any product, service, or trade name other than those owned by Licensor that identify a third party as the source thereof may, even if not so indicated, be the service mark or trademark of that respective entity or individual.  Any unauthorized use of the Licensor Marks or any third party trademark is strictly prohibited. \n
+\n
+2.4 Complaints; DMCA. If you believe that your trademark, service mark, or copyrightable work of authorship has been copied and/or is being displayed via the AccessPath Services in such a way that would give rise to a claim for misappropriation or infringement, please follow the procedure regarding Notice and Claims:\n
+\n
+NOTICE REQUIREMENTS\n
+\n
+(a)  An electronic or physical signature of the person authorized to act on behalf of the owner of the intellectual property interest; \n
+\n
+(b)  A description of the protected mark or copyrighted work that you claim has been infringed upon;\n
+\n
+(c)  A description of the manner in which the material that you claim is infringing is accessed via the AccessPath Services, including any information which would assist Licensor in identifying and locating that material; \n
+\n
+(d)  Your address, telephone number and e-mail address;\n
+\n
+(e)  A statement by you that you have a good faith belief that the disputed use is not authorized by the owner, its agent, or permissible by law;\n
+\n
+(f)  A statement by you under the penalty of perjury that the information in your notice is accurate that you are the mark holder, copyright owner or authorized to act on such party\'s behalf.\n
+\n
+AGENT FOR CLAIMS\n
+Pathway Accessibility Solutions, Inc. \n
+1401 Forbes Avenue, Suite 303\n
+Pittsburgh, PA 15219\n
+E-Mail: contact@pathvu.com \n
+\n
+3.  DISCLAIMER OF WARRANTY; LIMITATION OF LIABILITY \n
+\n
+3.1  As with any online interaction and electronic communication, there is an inherent risk involved in transmitting any information via the Internet. Licensor does not and cannot guarantee that its system is free from hackers or viruses or that information provided by users to Licensor will not be stolen or otherwise surreptitiously obtained. Licensor is not responsible or liable for any infections or contamination of your system or delays, inaccuracies, errors, or omissions arising out of your use of the AccessPath Services. You hereby acknowledge and understand that such risk is inherent in interacting with systems over the Internet, and take full responsibility for any harm, danger or damage that ensues due to any such breach in security. Pursuant to these Terms of Use, to the fullest extent permitted by applicable law, Licensor expressly disclaims any such liability. In addition, you agree to be responsible for obtaining and maintaining all hardware and other equipment needed for access to and use of AccessPath Services and you shall be responsible for all charges related thereto. \n
+\n
+3.2  LICENSOR DOES NOT ENDORSE ANY PARTICULAR ACCESSPATH CONTENT OR USER CONTENT OR ANY OPINION, RECOMMENDATION, OR ADVICE EXPRESSED THEREIN.  UNDER NO CIRCUMSTANCES WILL LICENSOR BE LIABLE IN ANY WAY FOR ACCESSPATH CONTENT OR USER CONTENT, INCLUDING BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY PA ACCESSPATH THVU CONTENT OR USER CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY ACCESSPATH CONTENT OR USER CONTENT ACCESSED, TRANSMITTED OR OTHERWISE MADE AVAILABLE THROUGH THE APPLICATION AND/OR ACCESSPATH SERVICES.  You agree that any claim you may have arising out of or related to your relationship with Licensor must be filed within one year after such claim arose; otherwise, your claim is permanently barred.\n
+\n
+3.3 WITHOUT WAIVING THE EXCLUSIVE GOVERNING LAW CLAUSE BELOW, SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE LIMITATIONS OR EXCLUSIONS SET FORTH IN THIS AGREEMENT MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, THE LIABILITY OF LICENSOR, THIRD PARTY CONTENT PROVIDERS, AND THEIR RESPECTIVE AGENTS SHALL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. NOTHING CONTAINED IN THESE TERMS OF USE SHALL LIMIT OR EXCLUDE OR PURPORT TO LIMIT OR EXCLUDE ANY LIABILITY WHERE SUCH LIMITATION OR EXCLUSION IS VOID OR UNENFORCEABLE OR OTHERWISE NOT PERMITTED UNDER APPLICABLE LAW.\n
+\n
+3.4 Termination. In addition to any other rights of the parties set forth herein, either you or Licensor may cancel or terminate this Agreement at any time for any, or no reason.  You may terminate this Agreement at any time by ceasing use of the AccessPath Services, and all components of the AccessPath Services.\n
+(For Public Use): If Licensor terminates this Agreement for your material breach, Licensor reserves the right to suspend or terminate your access to the AccessPath Services in the future.  If we terminate your access to the AccessPath Services or you elect to deactivate your account, your User Content, including without limitation images and all other such user data will no longer be accessible through your account, but those materials and data may persist and appear elsewhere within the AccessPath Services.  Upon termination, all licenses and other rights granted to you in these Terms of Use will immediately cease.  Notwithstanding the expiration or termination of this Agreement by either party, the parties acknowledge and agree that the provisions of Sections 1.3, 1.4. 1.5, 1.8, 1.9, 1.10, 1.12, 1.13, 2, 3 and 5 shall expressly survive such termination or expiration and remain in full force and effect. \n
+\n
+3.5 Indemnity. You (and also any third party for whom you operate an account or activity on the AccessPath Services) hereby agree to indemnify, defend and hold harmless Licensor and its affiliates from and against any and all liability and costs incurred by Licensor or the affiliates in connection with any claim arising out of (i) any breach or alleged breach of any of your obligations set forth herein; (ii) your User Content or your access to or use of the AccessPath Services; (iii) your violation of any third-party right, including without limitation, any intellectual property right, publicity, confidentiality, property or privacy right; (iv) your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental and quasi-governmental authorities, including, without limitation, all regulatory, administrative and legislative authorities; or (v) any misrepresentation made by you. You shall cooperate as fully as reasonably required in the defense of any claim. Licensor reserves the right, at its own expense, but is not obligated, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of Licensor.\n
+\n
+4.  ACCEPTABLE USE POLICY \n
+\n
+a.  You may not post profane, violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic or sexually suggestive photos or other similar content via the AccessPath Services in contravention of the intended purpose of mapping sidewalks for wheelchair and pedestrian accessibility. \n
+\n
+b.    You must not defame, stalk, bully, abuse, harass, threaten, impersonate or intimidate people or entities and you must not post private or confidential information via the AccessPath Services, including, without limitation, your or any other person\'s credit card information, social security or alternate national identity numbers, non-public phone numbers or non-public email addresses. \n
+\n
+c.     You may not use the AccessPath Services for any illegal or unauthorized purpose. You agree to comply with all laws, rules and regulations (for example, federal, state, local and provincial) applicable to your use of the Service and your Content (defined below), including but not limited to, copyright laws. \n
+\n
+d.     You are solely responsible for your conduct and all User Content that you submit, post or display on or via the AccessPath Services.\n
+\n
+e.     (For Public Use Only): You must not change, modify, adapt or alter the AccessPath Services or change, modify or alter another website so as to falsely imply that it is associated with the AccessPath Services or Licensor. \n
+\n
+f.      You must not access Licensor’s application programming interface (API) by means other than those permitted by Licensor. To the extent Licensor permits the use of Licensor’s API, such use will be subject to a separate set of terms (“API Terms”). \n
+\n
+g.     You must not use domain names or web URLs in your username without prior written consent from Licensor. \n
+\n
+h.     You must not interfere or disrupt the AccessPath Services or servers or networks connected to the AccessPath Services, including by transmitting any worms, viruses, spyware, malware or any other code of a destructive or disruptive nature. You may not inject content or code or otherwise alter or interfere with the way any Licensor page is rendered or displayed in a user\'s browser or device. \n
+\n
+i.      You must not attempt to restrict another user from using or enjoying the AccessPath Services and you must not encourage or facilitate violations of these Terms of Use or any other Licensor terms. \n
+\n
+j.      Violation of these Terms of Use may, in Licensor’s sole discretion, result in termination of your AccessPath account. \n
+\n
+k.     If you violate the letter or spirit of these Terms of Use, or otherwise create risk or possible legal exposure for Licensor, we reserve the right to stop providing all or part of the AccessPath Services to you.\n
+\n
+5.  MISCELLANEOUS \n
+\n
+5.1 Full Integration. These Terms of Use, including the Licensor Privacy Policy incorporated by reference herein, constitute the entire agreement between you and Licensor related to your access to and use of the Application and the other AccessPath Services hereunder.  No prior or contemporaneous written, oral, and electronic representation, negotiation, or agreement form a part of this agreement, and these Terms of Use, including the Licensor Privacy Policy, as each may be amended by Licensor from time to time, supersede all prior written, oral, or electronic agreements between you and Licensor relating to your access to, and use of, AccessPath Services hereunder. \n
+\n
+5.2 Written Agreement. These Terms of Use constitute a written agreement between you and Licensor. A printed version of these Terms of Use, and of any notice given in electronic form related to this agreement, shall be admissible in judicial or administrative proceedings to the same extent, and subject to the same restrictions, as other business contracts, documents, or records originally generated and maintained in printed form.\n
+\n
+5.3 Electronic Form of Agreement. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use. \n
+\n
+5.4  Modifications To the Agreement. Licensor has the right to modify this Agreement and any policies affecting the AccessPath Services, including without limitation the AccessPath Privacy Policy. Any modification is effective immediately upon posting by Licensor. Your continued use of the AccessPath Services hereunder following notice of any modification to these Terms of Use shall be conclusively deemed an acceptance of all such modification(s). Your only right with respect to any dissatisfaction with any modifications made pursuant to this provision, or any policies or practices of Licensor in providing the AccessPath Services, including without limitation any change to the AccessPath Content, is to cease using the AccessPath Services. \n
+\n
+5.5  Governing Law.  You agree with Licensor that these Terms of Use shall be considered a contract governed by the laws of the Commonwealth of Pennsylvania and that by clicking to accept these Terms of Use you are entering into a legally binding agreement with Licensor using electronic signatures pursuant to the laws of the Commonwealth of Pennsylvania. Any disputes regarding these Terms of Use shall be heard by the state and federal courts located in the Commonwealth of Pennsylvania, and each party consents to the exclusive jurisdiction of such courts.  AccessPath Content is provided by Licensor from its facilities in the United States of America.  Licensor makes no representation that AccessPath Services or AccessPath Content are appropriate or available for use in other locations, and access to them from territories where any of the AccessPath Services or AccessPath Content are illegal is prohibited. Those who choose to use and/or access AccessPath Services or AccessPath Content from other locations do so of their own volition and are responsible for compliance with applicable local laws.\n
+\n
+5.6 No Waiver.  Failure to insist on strict performance of any of the Terms of Use will not operate as a waiver of any subsequent default or failure of performance. \n
+\n
+5.7 Severability.  If any part of these Terms of Use is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms of Use shall continue in effect.\n
+\n
+5.8 Relationship Between the Parties. Nothing contained in these Terms of Use shall be construed to constitute you and Licensor as partners or joint venturers or to constitute employment or any type of agency. \n
+\n
+5.9  Events Beyond Licensor\'s Control.  Licensor will use reasonable efforts to keep the Application and AccessPath Services available for your use; however, Licensor cannot and will not be responsible for any loss or unavailability of access to AccessPath Services that results from any cause including a cause over which it does not have direct control, including, but not limited to, failure of electronic or mechanical equipment or communication lines, wireless data or other interconnect problems, computer viruses, unauthorized access, theft, operator errors, severe weather, earthquakes, or natural disasters, strikes or other labor problems, wars, or governmental restrictions.\n
+\n
+5.10 Descriptive Headings. The headings of the various sections herein are for convenience of reference only and shall not define, limit or otherwise affect any of the terms or provisions hereof.\n
+\n
+5.11  Mandatory Arbitration.
+UNLESS YOU OPT-OUT, YOU AGREE THAT ALL DISPUTES BETWEEN YOU AND LICENSOR (WHETHER OR NOT SUCH DISPUTE INVOLVES A THIRD PARTY) WITH REGARD TO YOUR RELATIONSHIP WITH PATHVU, INCLUDING, WITHOUT LIMITATION, DISPUTES RELATED TO THESE TERMS OF USE, YOUR USE OF THE ACCESSPATH SERVICES, AND/OR RIGHTS OF PRIVACY AND/OR PUBLICITY, WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION UNDER THE AMERICAN ARBITRATION ASSOCIATION\'S RULES FOR ARBITRATION OF CONSUMER-RELATED DISPUTES AND YOU AND PATHVU HEREBY EXPRESSLY WAIVE TRIAL BY JURY. As an alternative, you may bring your claim in your local “small claims” court, if permitted by that small claims court\'s rules. You may bring claims only on your own behalf. Neither you nor Licensor will participate in a class action or class-wide arbitration for any claims covered by this Agreement. You also agree not to participate in claims brought in a private attorney general or representative capacity, or consolidated claims involving another person\'s account, if Licensor is a party to the proceeding. This dispute resolution provision will be governed by the Federal Arbitration Act. Judgment on the award rendered by the arbitrator shall be issued to both parties in a writing setting forth in reasonable detail the reasoning for the decision and award and such award may be entered in any court having competent jurisdiction. Any provision of applicable law notwithstanding, the arbitrator will not have authority to award damages, remedies or awards that conflict with these Terms of Use.\n
+\n
+You may opt out of this agreement to arbitrate. If you do so, neither you nor Licensor can require the other to participate in an arbitration proceeding. To opt out, you must notify Licensor in writing within 30 days of the date that you first became subject to this arbitration provision. You must use this address to opt out:  \n
+\n
+Pathway Accessibility Solutions, Inc.\n
+1401 Forbes Ave., Ste. 303\n
+Pittsburgh, PA 15219\n
+\n
+You must include your name and residence address, an email address, and a clear and specific statement that you want to unconditionally opt out of this arbitration agreement.\n
+\n
+If the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then all of the preceding language in this Arbitration section will be null and void. This arbitration agreement will survive the termination of your relationship with Licensor.\n
+\n
+Notwithstanding anything to the contrary set forth above, this Arbitration section shall not apply to disputes relating to: (1) your or Licensor’s intellectual property (such as trademarks, trade dress, domain names, trade secrets, copyrights and patents); (2) violations of the API Terms; (3) violations of the Acceptable Use Policy; or (4) any dispute in which Licensor is seeking injunctive or equitable relief to prevent further breaches of these Terms of Use by a User.</string>
+    <string name="google_client_id"><!-- removed for security purposes --></string>
+    <string name="google_client_id2"><!-- removed for security purposes --></string>
+    <string name="google_client_id3"><!-- removed for security purposes --></string>
+    <string name="facebook_app_id"><!-- removed for security purposes --></string>
+    <string name="fb_login_protocol_scheme"><!-- removed for security purposes --></string>
+    <string name="title_activity_test_maps">Map</string>
+
+    <string name="email_signin_big_msg">Log In Using Your Email</string>
+    <string name="all_fields_are_required">All fields are required</string>
+    <string name="email_add_hint">Enter your email address</string>
+    <string name="pwd_hint">Enter your password</string>
+    <string name="back">Back</string>
+    <string name="email_box_label">An Account Does Not Exist for this Email</string>
+    <string name="incorrect_password_label">Incorrect Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="log_into_pathvu">Log Into pathVu</string>
+    <string name="signup_text">Don’t Have an Account? Sign Up.</string>
+    <string name="forgot_pwd_error">Please Enter Your Email Address</string>
+    <string name="account_error_contact_pathvu">Error with user account. Please try again or contact pathVu.</string>
+    <string name="username_in_use">This username has already in use.</string>
+    <string name="facebook_account_error_contact_pathvu">Error with Facebook token. Please try again or contact pathVu.</string>
+    <string name="google_account_error_contact_pathvu">Error with Google token. Please try again or contact pathVu.</string>
+    <string name="error_email_password">Error with e-mail address and password</string>
+    <string name="already_registered_email">You have registered with this email address</string>
+    <string name="select_user_type">Please select a user type.</string>
+    <string name="reset_pwd_link_sent">A link for reset password has been sent to your registered email address</string>
+    <string name="unregistered_email">You have not registered with this email address</string>
+    <string name="account_not_found">Account not found</string>
+    <string name="incorrect_pwd">Incorrect password</string>
+    <string name="favorite_places_header">Favorite Places</string>
+    <string name="fav_primer_header">Enter Your Favorite Places To Quickly Access Them Later</string>
+    <string name="add_first_fav_place">Add Your First Favorite Place</string>
+    <string name="add_a_favorite_place">Add A Favorite Place</string>
+    <string name="cancel_home_nav">Cancel And Go To Navigation Home</string>
+    <string name="favorite_place_label">Favorite Place</string>
+    <string name="favorite_place_name_header">Favorite Place Name</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_address_label">Place Address</string>
+    <string name="set_path_to_place_name">Set Path To Place Name</string>
+    <string name="cancel_nav_fav">Cancel And Go Back To Favorite Place</string>
+    <string name="no_favorites">No favorites</string>
+    <string name="enter_a_favorite_place">Enter A Favorite Place</string>
+    <string name="name_your_favorite">Name Your Favorite</string>
+    <string name="customer_name_hint">Enter A Custom Name If You Prefe</string>
+    <string name="add_fav_text">Add Place And Return To Favorites</string>
+    <string name="fav_place_add_error">Please Enter Address</string>
+    <string name="fav_place_name_error">Please Enter Name</string>
+    <string name="address_search_hint">Search A Location Or Address For Source</string>
+    <string name="error_processing_places_api">Error processing Places API URL</string>
+    <string name="error_connecting_to_places_api">Error connecting to Places API</string>
+    <string name="error_cannot_process_json_results">Cannot process JSON results</string>
+    <string name="error_lib_not_initialized">Please initialize the api before using it</string>
+    <string name="remove_favorite_label">Remove Favorite</string>
+    <string name="rename_favorite_label">Rename Favorite</string>
+    <string name="fav_place_header">Edit Your Favorite Place</string>
+    <string name="preview_my_destination">Preview My Destination</string>
+    <string name="enter_your_destination">Enter Your Destination</string>
+    <string name="current_loc_header">Where does your path begin</string>
+    <string name="destination_preview">Destination Preview</string>
+    <string name="re_center">Re-center</string>
+    <string name="next_step">Next Step</string>
+    <string name="last_step">Last Step</string>
+    <string name="navigating_to">Navigating To...</string>
+    <string name="no_recent">No recent</string>
+    <string name="recent_paths">Recent Paths</string>
+    <string name="no_recent_paths">No Recent Paths</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="approve_photo">Approve Photo</string>
+    <string name="todo">TODO</string>
+    <string name="report_obstruction_step_1">Step 1 - Photograph The Obstruction</string>
+    <string name="report_obstruction_step_5">Step 5 - Submit Obstruction</string>
+    <string name="report_obstruction_step_4">Step 4 - Confirm and Submit</string>
+    <string name="report_obstruction_header">Report An Obstruction</string>
+    <string name="report_location_header">Report An Location</string>
+    <string name="select_category_step_3">Step 3 - Select A Category</string>
+    <string name="construction_btn">Construction</string>
+    <string name="no_curb_ramp">No Curb Ramp</string>
+    <string name="tripping_hazard">Tripping Hazard</string>
+    <string name="no_sidewalk">No Sidewalk</string>
+    <string name="submit_report">Submit My Report</string>
+    <string name="move_marker">The marker on the map can adjusted. Hold and drag to move the marker to a more satisfactory location.</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="settings">Settings</string>
+    <string name="comfort_and_alert_settings_header">Comfort and Alert Settings</string>
+    <string name="map_settings">Map Settings</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="email_support">Email Support</string>
+    <string name="about_pathvu">About pathVu</string>
+    <string name="sign_out_text">Sign Out of pathVu</string>
+    <string name="favorites_alerts">Favorites Alerts</string>
+    <string name="signout">SignOut</string>
+    <string name="signout_message">Are you sure you want to sign out of pathVu?</string>
+    <string name="cancel">Cancel</string>
+    <string name="favorite_alerts_confirmation">Would you like to receive alerts as you pass your Favorite locations?</string>
+    <string name="turn_on_favorites">Turn on alerts for Favorites</string>
+    <string name="turn_off_favorite_alert">Turn off alerts for Favorites</string>
+    <string name="set_and_return_to_obstruction_list">Set and Return to Obstruction List</string>
+    <string name="terms_of_agreement">Terms of Agreement</string>
+    <string name="return_to_settings">Return to Settings</string>
+    <string name="pathvu">pathVu</string>
+    <string name="reports">Reports</string>
+    <string name="transit_stops">Transit Stops</string>
+    <string name="curb_ramps">Curb Ramps</string>
+    <string name="map_main_settings_header">Features</string>
+    <string name="send_email">Send Email</string>
+    <string name="support_desc">Click the button below to send us any questions or feedback you have. Your ID number will be included in the subject.</string>
+    <string name="accept_settings">Accept Settings</string>
+    <string name="account_header">Account Username</string>
+    <string name="id">ID:</string>
+    <string name="nearby_place">Nearby Places</string>
+    <string name="no_internet_connection">You are offline, please connect to the internet and try again.</string>
+    <string name="sidewalks_layer">https://geoprod.pathvu.com/arcgis/rest/services/pathvu/pathVu_Routing_Map/MapServer/2</string>
+    <string name="curb_ramps_layer">https://geoprod.pathvu.com/arcgis/rest/services/pathvu/pathVu_Routing_Map/MapServer/1</string>
+    <string name="transit_layer">https://geoprod.pathvu.com/arcgis/rest/services/pathvu/pathVu_Routing_Map/MapServer/0</string>
+    <string name="hazard_layer">https://pathvudata.com/api1/api/locations/hazards/<!-- removed for security purposes --></string>
+    <string name="indoor_layer">https://pathvudata.com/api1/api/locations/indoor/<!-- removed for security purposes --></string>
+    <string name="entrance_layer">https://pathvudata.com/api1/api/locations/entrances/<!-- removed for security purposes --></string>
+    <string name="other">Other</string>
+    <string name="approaching_fav_notification_header">Approaching Favorites</string>
+    <string name="fav_notification_desc">You have favorite place nearby</string>
+    <string name="approaching_hazard">Approaching Hazard</string>
+    <string name="feet">feet</string>
+
+    <string name="pathvu_api_key"><!-- removed for security purposes --></string>
+
+
+</resources>

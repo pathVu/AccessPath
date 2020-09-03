@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.owner.pathvuinterface.MainSettingsAbout">
+
+    <View
+        android:id="@+id/headerView"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--<ImageButton
+        android:id="@+id/backButton"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/rounded_button_white"
+        android:cropToPadding="false"
+        android:onClick="back"
+        android:padding="4dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_arrow_back_black_24dp" />-->
+
+    <TextView
+        android:id="@+id/backButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="21dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:fontFamily="@font/interui"
+        android:text="@string/back"
+        android:textAlignment="center"
+        android:textColor="@color/dark_blue_text"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:drawableLeft="@drawable/ic_arrow_back_black_24dp"
+        android:onClick="back"/>
+
+    <TextView
+        android:id="@+id/headerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/interui_bold"
+        android:text="@string/about_pathvu"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/termsOfAgreementButton"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_gravity="start"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/setting_button_black"
+        android:fontFamily="@font/interui"
+        android:onClick="termsPage"
+        android:paddingLeft="10dp"
+        android:text="@string/terms_of_agreement"
+        android:textAlignment="viewStart"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headerView" />
+
+    <ImageView
+        android:id="@+id/termsOfAgreementArrow"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="15dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/termsOfAgreementButton"
+        app:layout_constraintEnd_toEndOf="@+id/termsOfAgreementButton"
+        app:layout_constraintTop_toTopOf="@+id/termsOfAgreementButton"
+        app:srcCompat="@drawable/lowres_right_navy_chevron" />
+
+    <Button
+        android:id="@+id/cancelButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/rounded_button_blue"
+        android:fontFamily="@font/interui"
+        android:onClick="back"
+        android:text="@string/return_to_settings"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_blue_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

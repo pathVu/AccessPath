@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/hazard_layer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/SheetDialog">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/layer_info_background"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tvStopType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/ivCancelCurb"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/ivCancelCurb"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginEnd="2dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/close" />
+
+        <ImageView
+            android:id="@+id/curbrampImage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/no_img_available"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvStopType"/>
+
+        <View
+            android:id="@+id/viewImage"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="15dp"
+            android:background="@android:color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/curbrampImage" />
+
+        <TextView
+            android:id="@+id/addressHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Slope"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/viewImage" />
+
+        <TextView
+            android:id="@+id/slopeValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/addressHeader" />
+
+        <View
+            android:id="@+id/viewAddress"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/slopeValue" />
+
+        <TextView
+            android:id="@+id/automaticHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Overall quality"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/viewAddress" />
+
+        <TextView
+            android:id="@+id/qualityValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/automaticHeader" />
+
+        <View
+            android:id="@+id/viewAutomatic"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/qualityValue" />
+
+        <TextView
+            android:id="@+id/stepHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:text="Lippage"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/viewAutomatic" />
+
+        <TextView
+            android:id="@+id/lippageValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/interui"
+            android:gravity="center"
+            android:padding="2dp"
+            android:textColor="@color/dark_blue_text"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/stepHeader" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

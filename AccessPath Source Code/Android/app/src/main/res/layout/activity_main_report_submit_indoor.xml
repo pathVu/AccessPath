@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mainView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainReportIndoor">
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:visibility="gone"
+        android:indeterminateTint="@color/button_border"/>
+
+    <View
+        android:id="@+id/headerView"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/backButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="21dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:fontFamily="@font/interui"
+        android:text="@string/back"
+        android:textAlignment="center"
+        android:textColor="@color/dark_blue_text"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:drawableLeft="@drawable/ic_arrow_back_black_24dp"
+        android:onClick="back"/>
+
+    <TextView
+        android:id="@+id/headerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="Add Information"
+        android:textColor="@color/darkBlue"
+        android:textSize="16sp"
+        app:fontFamily="@font/interui_bold"
+        app:layout_constraintBottom_toBottomOf="@+id/headerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/headerView" />
+
+<!--    <ScrollView-->
+<!--        android:id="@+id/ScrollView"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginBottom="20dp"-->
+<!--        android:layout_marginEnd="20dp"-->
+<!--        android:layout_marginLeft="20dp"-->
+<!--        android:layout_marginRight="20dp"-->
+<!--        android:layout_marginStart="20dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:focusableInTouchMode="true"-->
+<!--        android:focusable="true"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/submitButton"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/headerView">-->
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/submitButton"
+        app:layout_constraintTop_toBottomOf="@+id/headerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fillViewport="false"
+        android:layout_marginBottom="20dp">
+
+        <LinearLayout
+            android:id="@+id/ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/headerView"
+            app:layout_constraintBottom_toTopOf="@id/submitButton">
+
+            <TextView
+                android:id="@+id/bigMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/interui_bold"
+                android:text="Choose all restroom options that apply"
+                android:textColor="@color/dark_blue_text"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/headerView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/headerView" />
+
+            <TextView
+                android:id="@+id/checkGender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is there a Male/Female restroom?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkGender"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+            <TextView
+                android:id="@+id/checkFamily"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is there a family restroom?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkFamily"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+            <TextView
+                android:id="@+id/checkADA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is there an ADA accessible restroom?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkADA"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+            <TextView
+                android:id="@+id/checkLockedDoor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is there a restroom with a locked door?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkLockedDoor"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+            <TextView
+                android:id="@+id/checkRamp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is there a ramp to the restroom?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkRamp"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+            <TextView
+                android:id="@+id/checkSteps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How many steps are there?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <LinearLayout
+                android:id="@+id/stepsLL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:gravity="center_horizontal"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/submitButton">
+
+                <Button
+                    android:id="@+id/zeroStep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/steps_btn_idle"
+                    android:text="0 steps"
+                    android:textSize="15dp"
+                    android:textColor="@color/dark_blue_text"
+                    android:textAllCaps="false"
+                    app:layout_constraintEnd_toStartOf="@+id/oneStep"
+                    app:layout_constraintHorizontal_bias="0.33"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/stepsLL"/>
+
+                <Button
+                    android:id="@+id/oneStep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/steps_btn_idle"
+                    android:text="1 steps"
+                    android:textSize="15dp"
+                    android:textColor="@color/dark_blue_text"
+                    android:textAllCaps="false"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.33"
+                    app:layout_constraintStart_toEndOf="@+id/zeroStep"
+                    app:layout_constraintTop_toTopOf="@+id/zeroStep"/>
+
+                <Button
+                    android:id="@+id/twoStep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/steps_btn_idle"
+                    android:text="2+ steps"
+                    android:textSize="15dp"
+                    android:textColor="@color/dark_blue_text"
+                    android:textAllCaps="false"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.33"
+                    app:layout_constraintStart_toEndOf="@+id/oneStep"
+                    app:layout_constraintTop_toTopOf="@+id/oneStep" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/checkBraille"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is there a braille menu?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkBraille"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+            <TextView
+                android:id="@+id/checkWheel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Does the interior provide ample space for a wheelchair user?"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"/>
+
+            <Switch
+                android:id="@+id/switch7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/dark_blue_text"
+                android:switchTextAppearance="@style/textOnOff"
+                android:gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/checkWheel"
+                android:thumb="@drawable/sw_thumb"
+                android:track="@drawable/sw_track"
+                android:showText="true"
+                android:textOff="@string/no"
+                android:textOn="@string/yes"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/rounded_button_orange"
+        android:fontFamily="@font/interui"
+        android:text="@string/submit_report"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue_text"
+        app:layout_constraintBottom_toTopOf="@+id/cancelButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/cancelButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/rounded_button_blue"
+        android:fontFamily="@font/interui"
+        android:text="@string/cancel_home_nav"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/dark_blue_text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<!--</ScrollView>-->

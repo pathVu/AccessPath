@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.pathvu.accesspath2020">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme2">
+        <activity android:name=".pathvu_splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainNavigationSearch"></activity>
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".TestMapsActivity"
+            android:label="Test"></activity>
+        <activity android:name=".OnboardingAlertSettings" />
+        <activity android:name=".OnboardingObstructionSettings" />
+        <activity android:name=".OnboardingObstructionTypes" />
+        <activity android:name=".OnboardingProfilePresets" />
+        <activity android:name=".OnboardingComfortSettingsPrimer" />
+        <activity android:name=".getHash" />
+        <activity android:name=".OnboardingUsername" />
+        <activity android:name=".OnboardingSignUpGuest" />
+        <activity android:name=".OnboardingSignUpGoogle" />
+
+<!--        <meta-data-->
+<!--            android:name="com.facebook.sdk.ApplicationId"-->
+<!--            android:value="@string/facebook_app_id" />-->
+
+<!--        <activity-->
+<!--            android:name=".OnboardingSignUpFacebook"-->
+<!--            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"-->
+<!--            android:label="@string/app_name" />-->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            <!-- removed for security purposes --> />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".OnboardingSignUpFacebook" />
+        <activity android:name=".OnboardingSignUpEmail" />
+        <activity android:name=".OnboardingSignInFacebook" />
+        <activity android:name=".OnboardingSignInGoogle" />
+        <activity android:name=".OnboardingSignInEmail" />
+        <activity android:name=".OnboardingCreateNewAccount" />
+        <activity android:name=".OnboardingTermsExtended" />
+        <activity android:name=".OnboardingSignInOptions" />
+        <activity android:name=".OnboardingForgotPassword"/>
+        <activity android:name=".OnboardingTerms" />
+        <activity android:name=".MainNavigationHome" />
+        <activity android:name=".OnboardingPrimer">
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MainFavoritesAdd" />
+        <activity android:name=".MainFavoritesInformation" />
+        <activity android:name=".MainFavoritesList" />
+        <activity android:name=".FetchAddressIntentService"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".MainDestinationPreviewSearch" />
+        <activity android:name=".MainFavoritesEdit" />
+        <activity android:name="MainSetANewPathMap" />
+        <activity android:name=".MainDestinationPreviewMap" />
+        <activity android:name=".MainRecentList" />
+        <activity android:name=".MainReportConfirmation" />
+        <activity android:name=".MainReportCategory" />
+        <activity android:name=".MainReportSubmit" />
+        <activity android:name=".MainReportEntrance" />
+        <activity android:name=".MainReportIndoor" />
+        <activity android:name=".MainSetANewPathMapSearch"/>
+        <activity android:name=".MainSettings"/>
+        <activity android:name=".MainSettingsFavoriteAlerts"/>
+        <activity android:name=".MainSettingsAccount"/>
+        <activity android:name=".MainSettingsAbout"/>
+        <activity android:name=".MainSettingsSupport"/>
+        <activity android:name=".MainSettingsMap"/>
+        <activity android:name=".MainSettingsTerms"/>
+        <activity android:name=".MainAroundMe"/>
+
+<!--        <provider-->
+<!--            android:name="com.facebook.FacebookContentProvider"-->
+<!--            android:authorities="com.facebook.app.FacebookContentProvider430834830697292"-->
+<!--            android:exported="true" />-->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+
+        <service
+            android:name=".FetchAddressIntentService"
+            android:exported="false"/>
+
+    </application>
+
+</manifest>
