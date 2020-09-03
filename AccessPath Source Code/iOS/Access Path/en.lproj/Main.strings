@@ -1,0 +1,606 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go Back To Favorites"; ObjectID = "02w-Po-wEh"; */
+"02w-Po-wEh.normalTitle" = "Cancel And Go Back To Favorites";
+
+/* Class = "UILabel"; text = "Set A New Path"; ObjectID = "0nC-71-kdo"; */
+"0nC-71-kdo.text" = "Set A New Path";
+
+/* Class = "UIButton"; normalTitle = "Mostly Comfortable"; ObjectID = "0pT-rj-fry"; */
+"0pT-rj-fry.normalTitle" = "Mostly Comfortable";
+
+/* Class = "UIButton"; normalTitle = "Roughness"; ObjectID = "0yF-bP-uXM"; */
+"0yF-bP-uXM.normalTitle" = "Roughness";
+
+/* Class = "UIButton"; normalTitle = "Very Comfortable"; ObjectID = "16X-8m-yzR"; */
+"16X-8m-yzR.normalTitle" = "Very Comfortable";
+
+/* Class = "UILabel"; text = "Name Your Favorite"; ObjectID = "1MS-53-rrT"; */
+"1MS-53-rrT.text" = "Name Your Favorite";
+
+/* Class = "UILabel"; text = " "; ObjectID = "1OA-0V-NZI"; */
+"1OA-0V-NZI.text" = " ";
+
+/* Class = "UITextField"; placeholder = "Favorite Place Name"; ObjectID = "2R9-bA-STH"; */
+"2R9-bA-STH.placeholder" = "Favorite Place Name";
+
+/* Class = "UIButton"; normalTitle = "Recent Paths"; ObjectID = "2Rx-jY-9Xh"; */
+"2Rx-jY-9Xh.normalTitle" = "Recent Paths";
+
+/* Class = "UITextView"; text = "June 13, 2018\nPATHVU APP LICENSE AND SERVICES\nTERMS AND CONDITIONS OF USE\nThank you for your interest in PathVu and for downloading the PathVu mobile device application (the \"Application\") providing access to PathVu content and services, including without limitation, sidewalk hazard flagging, the photo upload, geotagging, pedestrian navigation, and hosting services (collectively, such content and services, together with the Application, are referred to herein as the \"PathVu Services\"), and all provided by Pathway Accessibility Solutions, Inc. (\"Licensor\").  Download, installation and use of the Application, and access to PathVu Services, however accessed, are all offered to you, the individual user, by Licensor subject strictly to the terms and conditions set forth below.\n \nPLEASE READ THIS DOCUMENT CAREFULLY!  THESE LICENSE AND SERVICES TERMS OF USE (THE \"TERMS OF USE\") GOVERN YOUR DOWNLOAD AND USE OF THE APPLICATION AND PATHVU SERVICES INCLUDING IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS AS WELL AS LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU.  PLEASE PRINT OUT A COPY OF THESE TERMS OF USE TO KEEP FOR YOUR OWN RECORDS.  THE MOST CURRENT VERSIONS OF THESE TERMS IS AVAILABLE IN THE APPLICATION.\n \nBy downloading, installing and/or using the Application, or otherwise accessing or using the PathVu Services, as applicable, you (the \"User\" or \"you\") acknowledge your legally binding acceptance of and agreement to these Terms of Use. If you do not agree to these Terms of Use, you are not authorized to use the Application or any other PathVu Services and should discontinue any use of the Application, and all other PathVu Services.\n \nLicensor reserves the right to change or modify these Terms of Use from time to time. Licensor will post any changes to the Terms of Use.  The date of the latest changes will be indicated at the top of the document.  You are advised to check the Terms of Use periodically for updates.  Continued use of this Application following the posting of changes will mean that you agree to be bound by such changes.\n \nARBITRATION NOTICE:  UNLESS YOU OPT-OUT AND/OR EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND PATHVU WILL BE RESOLVED BY MANDATORY, BINDING ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.\n \n1. GENERAL TERMS\n \n1.1 Licenses. Subject to the terms and conditions of this Agreement, Licensor hereby grants to you a personal, fully revocable, non-transferable and non-exclusive license to (a) download, install and use the Application on a mobile device that you own or control for the sole purpose of accessing the PathVu Services, any upgrades, updates or corrections thereto provided by Licensor to you, if any, and related user documentation  offered by Licensor to you; and (b) access and use the PathVu Services exclusively through the Application  within the United States.  No access to PathVu Services through any means other than the Application is granted hereunder.  Licensor reserves the right to refuse access to the PathVu Services to anyone for any reason at any time.\n \n1.2 Not Intended for Children Age of 13 or Under.  Licensor offers the PathVu Services exclusively for the use of individuals who are over the age of 13.  Content made available through PathVu Services  will be geotagged.  We do not solicit or knowingly collect personal information from persons under the age of thirteen, and we do not knowingly market our products or services to persons under such age.  Accounts of Users under the age of 13 years will be cancelled and deleted by Licensor, upon receiving notice at contact@pathvu.com.\n \n1.3  PathVu Content.  You may not, under any circumstances, copy, access or otherwise use PathVu Services separate or apart from your use of the Application, whether to create a derivative work of all or any part of the PathVu Services or otherwise.  Additionally, by way of example, and not limitation, unless expressly authorized under these Terms of Use, you may not sublicense, alter, adapt, transmit, publicly perform or display, distribute, customize, modify, add to, delete from, create derivative works based upon any portion of the PathVu Services, copy, screen capture, counterfeit or paste content available through PathVu Services, excepting User Content as discussed below, (\"PathVu Content\") to any other website or web page.  PathVu does not claim ownership of User Content that you post or generate on or through PathVu Services.  Such User Content is more specifically addressed in Section 1.7 below.  PathVu Content available through PathVu Services includes content owned or licensed by PathVu.  PathVu Content is protected by copyright, trademark, patent, trade secret and other laws, and, as between you and PathVu, PathVu owns and retains all rights in PathVu Services, including without limitation the Application and PathVu Content.  Without Licensor's prior written consent, you may not, and may not permit others to: (a) modify or create any derivative works of the Application, PathVu Content or its components; (b) decompile, disassemble, reverse engineer, reduce the Application or any other PathVu Services to perceptible form, or otherwise attempt to learn the source code, structure, algorithms or ideas underlying the Application or other PathVu Services that include software (except to the extent applicable laws specifically prohibit such restriction); (c) sell, distribute or otherwise make available the PathVu Services or components thereof, or this license, in any way; (d) repackage or bundle the Application with other software: or (e) remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels in the Application, the PathVu Services or PathVu Content. You acknowledge and agree that modification of the PathVu Content or use of the PathVu Content for any other purpose is a violation of Licensor's, our licensors' and suppliers' and possibly other third parties' copyright and proprietary rights. You agree to use the PathVu Services only for purposes which are lawful in applicable national and local jurisdictions and all subdivisions thereof. If you violate any provision of these Terms of Use, your permission to use and access the PathVu Services automatically terminates and you must immediately cease use of the PathVu Services. Any other use or exploitation of the PathVu Services, including without limitation the Application and the PathVu Content, is strictly prohibited. You agree not to interrupt, or attempt to interrupt, the operation of the PathVu Services in any way.\n \n1.4  PathVu Brand Materials.  The PathVu name and logo are trademarks and/or service marks of Licensor and may not be copied, imitated or used, in whole or in part, without the prior written permission of Licensor, except to the extent Licensor publishes brand use guidelines on Licensor’s web site from time to time. \n \n1.5 Disclaimer; Nature of Services. THE PATHVU SERVICES, INCLUDING, WITHOUT LIMITATION, THE APPLICATION AND PATHVU CONTENT, IS PROVIDED ON AN \"AS IS\", \"AS AVAILABLE\" AND \"WITH ALL FAULTS\" BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, NEITHER PATHVU NOR ITS EMPLOYEES, MANAGERS, OFFICERS, AGENTS, LICENSORS, OR SUPPLIERS (COLLECTIVELY, THE \"PATHVU PARTIES\") MAKE ANY REPRESENTATIONS OR WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, AS TO: (A) THE APPLICATION; (B) THE PATHVU SERVICES; (C) THE PATHVU CONTENT; (D) USER CONTENT; OR (E) SECURITY ASSOCIATED WITH THE TRANSMISSION OF INFORMATION TO, OR FROM, PATHVU OR VIA THE PATHVU SERVICES. IN ADDITION, THE PATHVU PARTIES HEREBY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, SYSTEM INTEGRATION AND FREEDOM FROM COMPUTER VIRUS.  NOTHING HEREIN SHALL BE CONSTRUED AS A WARRANTY OF COMPATIBILITY WITH ANY PARTICULAR MOBILE/COMPUTING DEVICE, OPERATING SYSTEM, OR OTHER SOFTWARE RESIDENT ON YOUR DEVICE. \n \nTHE PATHVU PARTIES DO NOT REPRESENT OR WARRANT THAT THE PATHVU SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED; THAT DEFECTS WILL BE CORRECTED; OR THAT THE PATHVU SERVICES OR THE SERVER(S) THAT MAKES THE PATHVU SERVICES AVAILABLE IS FREE FROM ANY HARMFUL COMPONENTS, INCLUDING, WITHOUT LIMITATION, VIRUSES. THE PATHVU PARTIES DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT THE INFORMATION (INCLUDING ANY INSTRUCTIONS) ON THE PATHVU SERVICES IS TRUE, VALID, ACCURATE, COMPLETE, OR USEFUL. YOU ACKNOWLEDGE THAT YOUR USE OF THE PATHVU SERVICES IS AT YOUR SOLE RISK AND YOU EXPRESSLY ASSUME AND HEREBY EXPRESSLY RELEASE THE PATHVU PARTIES FROM ALL LIABILITY, IN TORT, CONTRACT OR OTHERWISE, INCURRED IN CONNECTION WITH THE USE OF THE APPLICATION AND THE OTHER PATHVU SERVICES. THE PATHVU PARTIES DO NOT WARRANT THAT YOUR USE OF THE PATHVU SERVICES IS LAWFUL IN ANY PARTICULAR JURISDICTION, AND THE PATHVU PARTIES SPECIFICALLY DISCLAIM SUCH WARRANTIES.\n \nBY ACCESSING OR USING THE SERVICE YOU REPRESENT AND WARRANT THAT YOUR ACTIVITIES ARE LAWFUL IN EVERY JURISDICTION WHERE YOU ACCESS OR USE THE SERVICE.\n \nIN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE PATHVU SERVICES OR WITH THE DELAY OR INABILITY TO USE THE PATHVU SERVICES, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. Licensor makes no warranties, express or implied, that the use of the PathVu Services does not infringe any patent or copyright of any third party.\n \n1.6 Account; Location-Based Service.  You may access or use the Application and PathVu Services without setting up a username and password.  Licensor will link all of your information with a unique identifier generated by Licensor that is not tied to personally identifiable information. Take note that PathVu Services makes use of detailed location information, for example in the form of GPS signals and other information sent by your mobile device on which the Application is installed and activated. PathVu Services cannot be provided without utilizing this technology.\n \n1.6.1       Username/Password. You may be asked to create a username and password (combined, the “User Identity”).  You shall hold and secure any such User Identity as strictly confidential. Third parties with knowledge of your User Identity can gain access to your account information  and take other actions for which you will be held accountable and liable. Licensor is entitled to, and will, assume that any person using the PathVu Services under your User Identity is you and will hold you liable and responsible for all actions and/or statements made under your User Identity.  Licensor shall not be responsible whatsoever in the event that your User Identity is used by an unauthorized entity or misappropriated by a third party. We reserve the right to refuse or reject any username for any reason and/or force forfeiture of any username at any time for any reason.\nIf you provide any information that is untrue, inaccurate, not current or incomplete, Licensor has the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).\n \n1.7 Posted Materials. ANY COMMUNICATION OF MATERIAL YOU TRANSMIT TO LICENSOR VIA THE PATHVU SERVICE, OR OTHERWISE BY UPLOAD, POSTING, ELECTRONIC MAIL OR OTHERWISE, INCLUDING ANY IMAGE, VIDEO, MULTIMEDIA, DATA, QUESTIONS, COMMENTS, SUGGESTIONS OR THE LIKE IS, AND WILL BE TREATED AS, NON-CONFIDENTIAL AND NON-PROPRIETARY.  Except as expressly set forth below or in our Privacy Policy, anything you transmit or post may be used by Licensor for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting.  Furthermore, Licensor is free to use any ideas, concepts, know-how, or techniques contained in any communication you send to Licensor for any purpose whatsoever, including, but not limited to, developing, manufacturing, and marketing products using such information without incurring any obligation whatsoever to you, and by sending such communication, you waive all your rights thereto. You agree that you are solely responsible for all data charges you incur in the use of the PathVu Services, including without limitation data charges incurred in uploading images from a mobile device to the PathVu Services using a cellular data connection.\n \n1.7.1.  User Content.  PathVu does not claim ownership of any images or other material that you transmit, post, upload, create, or generate on or through PathVu Services (“User Content”).  However, by transmitting, posting, uploading, creating or generating such User Content on or through PathVu Services, you automatically grant to Licensor a worldwide, royalty-free, sublicensable, perpetual, irrevocable, non-exclusive, transferable right and license to use, reproduce, modify, adapt, publish, edit, translate, distribute, publicly perform, display and otherwise exploit such material, including, but not limited to, all rights in copyright to such material and all elements thereof alone or as part of other works, throughout the universe, in perpetuity, in any form, media, or technology, whether now known or hereafter devised, and to sublicense such rights through multiple tiers of sublicenses, all without any obligation to you or any third parties, whether by way of compensation, attribution or otherwise.  Such license granted to Licensor extends to any commercial use of User Content, at Licensor's sole and absolute discretion. You agree that Licensor is not responsible for, and does not endorse, User Content posted within the PathVu Services. Licensor does not have any obligation to prescreen, monitor, edit, or remove any User Content, however Licensor may, but have no obligation to, remove, edit, block, and/or monitor User Content or User accounts containing User Content that Licensor determines in its sole discretion violates these Terms of Use.  If your User Content violates these Terms of Use, you may bear legal responsibility for such User Content.\n \n1.7.2       You acknowledge and agree that you elect to share or publish your User Content through the PathVu Services at your own risk.  You acknowledge and agree that, once you have posted your User Content, PathVu cannot thereafter guarantee that such posted User Content can be deleted from the PathVu Services. You agree that PathVu is not responsible or liable for the conduct of any User. Please take note that no security measures are perfect or impenetrable. We cannot control the actions of other users. Therefore, we cannot and do not guarantee that your account information or User Content that you may share or publish through PathVu Services, will not be accessible to the general public or otherwise viewed by unauthorized persons. We are not responsible for circumvention of any security measures we provide. You understand and acknowledge that, even after removal, User Content may remain viewable in cached and archived pages or if other users have copied or stored all, or parts of, such information.\n \n1.7.3  From time to time, Licensor may elect to display promotions and advertisements, and you hereby agree that Licensor may place such promotions and advertising on the PathVu Services or on, about, or in conjunction with your User Content.  The manner, mode and extent of such advertising and promotions are subject to change without specific notice to you.  You acknowledge that Licensor may not always identify aid services, sponsored content, or commercial communications as such.\n \n1.7.4       You represent, warrant, and guarantee that (a) you have the full and unrestricted right to grant the rights to User Content as set forth in Section 1.7.1 above, and that there are no other agreements with any third party in conflict herewith; (b) posting and use of your User Content on or through the PathVu Services do not violate, misappropriate, or infringe on the rights of any third party, including without limitation, privacy rights, publicity and likeness rights, copyrights, trademark and/or other intellectual property rights; (c) Licensor's exercise of its rights granted by you hereunder shall not infringe upon any copyright or any other subsisting right of any third party; (d) you agree to pay for all royalties, fees, and any other monies or obligations owed by reason of User Content you post on or through the PathVu Services; (e) your User Content will comply in all respects with the Acceptable Use Policy set forth below; and (f) you have the legal right and capacity to enter into these Terms of Use in your jurisdiction. You waive any and all so-called \"Moral Rights\" or similar rights under any jurisdiction, now or hereafter recognized with respect to Licensor's (or its assignee’s) exercise of its rights hereunder. Moreover, you agree to indemnify and hold PathVu harmless from and against any and all claims, demands, damages, losses, liabilities and causes of action of any kind or character, made by you or any third party against PathVu, arising out of or relating to PathVu’s exercise of such rights to User Content, your publication or transmittal of any materials, or your failure to comply or your alleged failure to comply with these Terms of Use.  This defense and indemnification obligation shall survive this Agreement and your use of the Application and/or the PathVu Services. \n \n1.8 Objectionable Material. You understand that through your use of the PathVu Services you may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as such. Pursuant to Section 1.7.1, Licensor does not have any obligation to monitor or remove any User Content. However, Licensor requests that you report content which you deem objectionable to contact@pathvu.com. You agree to use the PathVu Services at your sole risk and that Licensor shall have no liability to you for the type of content that you may access, including without limitation content that you may find offensive, indecent, or objectionable.\n \n1.9  Links to Other Sites.  PathVu Services may provide access and/or hyperlinks to other third party sites and content on the Internet. Such third party sites and content so linked have not necessarily been reviewed by Licensor and are maintained by third parties over which Licensor exercises no control. Licensor expressly disclaims any responsibility for the i) content or accuracy of information contained on such linked content; ii) quality of any product or service provided by or advertised in or by any such third party content. Licensor neither endorses nor makes any representation regarding any linked site, product, service and/or content, and we advise you to assess for yourself the adequacy and appropriateness of any linked site, product, service and/or content for your own purposes. Licensor expressly disclaims any responsibility for the quality, adequacy, or appropriateness of any product or service provided by or advertised by any linked site.\n \n1.10 No Right To Continued Service. Licensor reserves the right to amend the Application, PathVu Services and/or the interface, functionality and/or operation of the Application or the PathVu Services at any time and without prior notice.  At any time without notice, Licensor may add, delete or disable content, and/or add, delete, disable or modify some or all of the PathVu Services, at its sole election, and you acknowledge: (1) that you may no longer be able to use the Application, and/or other aspects of the PathVu Services to the same extent - or at all - as prior to such change or discontinuation, and (2) that Licensor shall have no liability to you in such case. In no event will Licensor be liable for the removal of or disabling of access to any content, materials or functionality. Licensor may also impose limits on the use of or access to certain features or portions of the content, other aspects or components of the PathVu Service, in any case and without notice or liability.\n \n1.11        Esri Maps.  The Application and PathVu Services rely on the ArcGIS Maps service provided by Environmental Systems Research Institute, Inc. (\"Esri\").  By using the Application and PathVu Services, you agree and acknowledge that use of Esri Maps functionality integrated into the Application is subject to the Esri Master Agreement (http://www.esri.com/~/media/Files/Pdfs/legal/pdfs/ma-full/ma-full.pdf).\n \n \n2. PAIDVU DATA COLLECTORS\n \n \n2.1 Becoming a paidVu data collector. You can only become a paidVu data collector by signing up online at pay.pathvu.com. The paidVu data collection program is available for a limited time and participation is offered based on availability.  PathVu has the right to refuse data collectors for any reason.  PathVu has the right to stop the program at any time without prior notice to participants.\n \n \n2.2 Performing data collection. By collecting data, you agree to use your best efforts, skills and abilities to report data in a professional and workmanlike manner as stated in this agreement.\n \n \n2.3 Evaluation of paidVu data. When you have completed and delivered reported data, PathVu may evaluate the data to determine, in their sole discretion, whether they comply with the requirements of this Agreement. If there are discrepancies with the data reported relative to this agreement, the data collector will not receive the Fee for the data collected, if any.\n \n \n2.4 \n \n3. PAYMENT TO PAIDVU DATA COLLECTORS\n \nThe Fee to paidVu data collectors, less any payment processing fees, will be remitted by our third party payment processor, PayPal, each Monday provided that the total amount due to you is at least $5 (the \"Minimum\"). A paidVu data collector may receive a maximum of $50 in one payment week for the data collected.  A payment week lasts for seven days and ends at 11:59 p.m. on Sunday, prior to payment.  Payment shall be paid to the data collector for the previous week of data collection only.  For any week in which the total amount due to you is less than the Minimum, the balance may be carried over to the following week. Unless otherwise stated, all Fees are quoted in U.S. Dollars. You are responsible for paying all applicable taxes and for all expenses incurred by you in connection with performing the data collection or otherwise performing your obligations under this Agreement. We may be obligated by law to obtain tax information from you. If we request tax information from you and you do not provide it, we may (in addition to any other rights or remedies available to us) withhold your Fees until you provide this information or otherwise satisfy us that you are not a person from whom we are required to obtain tax information.\n \n \n4. PAIDVU DATA COLLECTOR INDEPENDENT CONTRACTOR RELATIONSHIP\n \n \nFor paidVu data collectors, it is understood and agreed that your relationship with PathVu is that of an independent contractor. Nothing in this Agreement is intended or should be construed to create a partnership, joint venture, employment agency, or employer-employee relationship between PathVu and you. You will take no position with respect to or on any tax return or application for benefits, or in any proceeding directly or indirectly involving PathVu that is inconsistent with your being an independent contractor (and not an employee) of PathVu. You are not the agent of PathVu and you are not authorized, and must not represent to any third party that you are authorized, to make any commitment or otherwise act on behalf of PathVu. Without limiting the generality of the foregoing:\n \n \n4.1 Benefits and Contributions. You are not entitled to or eligible for any benefits that PathVu may make available to its employees, such as group insurance, profit-sharing or retirement benefits. Because you are an independent contractor, PathVu will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers' compensation insurance on your behalf. If, notwithstanding the foregoing, you are reclassified as an employee of PathVu, or any affiliate of PathVu, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal, state or foreign agency as the result of any administrative or judicial proceeding, you hereby elect not to participate in, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by PathVu.\n \n \n4.2 Taxes. Since you are an independent contractor and not an employee of PathVu, we do not withhold income or employment taxes or any other amounts from any Fees paid to you under this Agreement. You are solely responsible for filing all tax returns and paying all amounts required by any federal, state, local, or foreign tax authority arising from the payment of Fees to you under this Agreement, and you agree to do so in a timely manner. Because all PathVu Fees are remitted through PayPal, the issuance of a Form 1099-K to you (and the filing of a copy of that Form with the Internal Revenue Service), if any, will be done by PayPal. Please be advised that, in general, all Fees paid to you under this Agreement are considered taxable income, even if you do not receive a Form 1099-K from PayPal, or the amount reported on any such Form 1099-K is less than total Fees paid to you under this Agreement. We recommend that you consult your own tax advisor for information on your personal tax situation.\n \n \n4.3 Compliance with Law. You will comply with all applicable federal, state, local, and foreign laws governing self-employed individuals, including laws requiring the payment of taxes, such as income and employment taxes, and social security, disability and other contributions.\n \n5. OWNERSHIP AND INTELLECTUAL PROPERTY\n5.1 Ownership. Licensor is the owner and proprietor of the PathVu Services.  The PathVu Services, including without limitation the Application, PathVu Content, and storage, processing and hosting of User Content, as accessed through the PathVu Services are offered to you by Licensor for limited use pursuant to these Terms of Use.  You agree and acknowledge that you shall not acquire any ownership rights by accessing or downloading PathVu Content through the PathVu Services or otherwise.\n \n5.2 Copyright.  Unauthorized use of any material accessed through or contained on the PathVu Services, may violate copyright laws, trademark laws, trade secret laws, the laws of privacy and publicity, and other regulations and statutes.  PathVu Content is owned by Licensor and/or its licensors, and content providers and is protected by applicable domestic and international copyright laws.  The compilation of all PathVu Content through the PathVu Services and its presentation through the Application is the exclusive property of Licensor and protected by U.S. and international copyright laws.  Text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, presented on or through the PathVu Services is Copyrighted by Pathway Accessibility Solutions, Inc. All rights reserved. Any rights not expressly granted to you herein are reserved. Any violation of copyright laws may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.\n \n5.3 Trademark. “PathVu”, the PathVu logo, and all graphics, logos, page headers, titles, button icons, scripts, service names and other trademarks and service marks on the PathVu Services are trademarks, trade dress and service marks belonging to Licensor or its licensors (the \"Licensor Marks\"). Licensor Marks may not be used in connection with any product or service that is not related to Licensor or the PathVu Services, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Licensor or the PathVu Services. Licensor Marks may not be copied, imitated or used, in whole or in part, without prior written permission from Licensor.  All other trademarks not owned by Licensor that appear via the PathVu Services are the property of their respective owners, who may or may not be affiliated with, connected to, sponsor, or sponsored by Licensor.   Any product, service, or trade name other than those owned by Licensor that identify a third party as the source thereof may, even if not so indicated, be the service mark or trademark of that respective entity or individual.  Any unauthorized use of the Licensor Marks or any third party trademark is strictly prohibited. \n \n5.4 Complaints; DMCA. If you believe that your trademark, service mark, or copyrightable work of authorship has been copied and/or is being displayed via the PathVu Service in such a way that would give rise to a claim for misappropriation or infringement, please follow the procedure regarding Notice and Claims:\n \nNOTICE REQUIREMENTS\n(a)  An electronic or physical signature of the person authorized to act on behalf of the owner of the intellectual property interest;\n(b)  A description of the protected mark or copyrighted work that you claim has been infringed upon;\n(c)  A description of the manner in which the material that you claim is infringing is accessed via the PathVu Services, including any information which would assist Licensor in identifying and locating that material;\n(d)  Your address, telephone number and e-mail address;\n(e)  A statement by you that you have a good faith belief that the disputed use is not authorized by the owner, its agent, or permissible by law;\n(f)  A statement by you under the penalty of perjury that the information in your notice is accurate that you are the mark holder, copyright owner or authorized to act on such party's behalf.\n \nAGENT FOR CLAIMS\nPathway Accessibility Solutions, Inc.\n1297 Royal Park Boulevard\nSouth Park, PA 15129\nE-Mail: contact@pathvu.com\n \n6.  DISCLAIMER OF WARRANTY; LIMITATION OF LIABILITY\n \n6.1  As with any online interaction and electronic communication, there is an inherent risk involved in transmitting any information via the Internet. Licensor does not and cannot guarantee that its system is free from hackers or viruses or that information provided by users to Licensor will not be stolen or otherwise surreptitiously obtained. Licensor is not responsible or liable for any infections or contamination of your system or delays, inaccuracies, errors, or omissions arising out of your use of the PathVu Services. You hereby acknowledge and understand that such risk is inherent in interacting with systems over the Internet, and take full responsibility for any harm, danger or damage that ensues due to any such breach in security. Pursuant to these Terms of Use, to the fullest extent permitted by applicable law, Licensor expressly disclaims any such liability. In addition, you agree to be responsible for obtaining and maintaining all hardware and other equipment needed for access to and use of PathVu Services and you shall be responsible for all charges related thereto.\n \n6.2  LICENSOR DOES NOT ENDORSE ANY PARTICULAR PATHVU CONTENT OR USER CONTENT OR ANY OPINION, RECOMMENDATION, OR ADVICE EXPRESSED THEREIN.  UNDER NO CIRCUMSTANCES WILL LICENSOR BE LIABLE IN ANY WAY FOR PATHVU CONTENT OR USER CONTENT, INCLUDING BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY PATHVU CONTENT OR USER CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY PATHVU CONTENT OR USER CONTENT ACCESSED, TRANSMITTED OR OTHERWISE MADE AVAILABLE THROUGH THE APPLICATION AND/OR PATHVU SERVICES.  You agree that any claim you may have arising out of or related to your relationship with PathVu must be filed within one year after such claim arose; otherwise, your claim is permanently barred.\n \n6.3 WITHOUT WAIVING THE EXCLUSIVE GOVERNING LAW CLAUSE BELOW, SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE LIMITATIONS OR EXCLUSIONS SET FORTH IN THIS AGREEMENT MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, THE LIABILITY OF LICENSOR, THIRD PARTY CONTENT PROVIDERS, AND THEIR RESPECTIVE AGENTS SHALL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. NOTHING CONTAINED IN THESE TERMS OF USE SHALL LIMIT OR EXCLUDE OR PURPORT TO LIMIT OR EXCLUDE ANY LIABILITY WHERE SUCH LIMITATION OR EXCLUSION IS VOID OR UNENFORCEABLE OR OTHERWISE NOT PERMITTED UNDER APPLICABLE LAW.\n \n6.4 Termination. In addition to any other rights of the parties set forth herein, either you or Licensor may cancel or terminate this Agreement at any time for any, or no reason.  You may terminate this Agreement at any time by ceasing use of the PathVu Services, and all components of the PathVu Services.  If Licensor terminates this Agreement for your material breach, Licensor reserves the right to suspend or terminate your access to the PathVu Services in the future.  If we terminate your access to the PathVu Services or you elect to deactivate your account, your User Content, including without limitation images and all other such user data will no longer be accessible through your account, but those materials and data may persist and appear elsewhere within the PathVu Services.  Upon termination, all licenses and other rights granted to you in these Terms of Use will immediately cease.  Notwithstanding the expiration or termination of this Agreement by either party, the parties acknowledge and agree that the provisions of Sections 1.3, 1.4. 1.5, 1.8, 1.9, 1.10, 1.12, 1.13, 2, 3 and 5 shall expressly survive such termination or expiration and remain in full force and effect.\n \n6.5 Indemnity. You (and also any third party for whom you operate an account or activity on the PathVu Services) hereby agree to indemnify, defend and hold harmless Licensor and its affiliates from and against any and all liability and costs incurred by Licensor or the affiliates in connection with any claim arising out of (i) any breach or alleged breach of any of your obligations set forth herein; (ii) your User Content or your access to or use of the PathVu Services; (iii) your violation of any third-party right, including without limitation, any intellectual property right, publicity, confidentiality, property or privacy right; (iv) your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental and quasi-governmental authorities, including, without limitation, all regulatory, administrative and legislative authorities; or (v) any misrepresentation made by you. You shall cooperate as fully as reasonably required in the defense of any claim. Licensor reserves the right, at its own expense, but is not obligated, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of Licensor.\n \n7.  ACCEPTABLE USE POLICY\na.     You may not post profane, violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic or sexually suggestive photos or other similar content via the PathVu Services in contravention of the intended purpose of mapping sidewalks for wheelchair and pedestrian accessibility.\nb.     You must not defame, stalk, bully, abuse, harass, threaten, impersonate or intimidate people or entities and you must not post private or confidential information via the PathVu Services, including, without limitation, your or any other person's credit card information, social security or alternate national identity numbers, non-public phone numbers or non-public email addresses.\nc.     You may not use the PathVu Services for any illegal or unauthorized purpose. You agree to comply with all laws, rules and regulations (for example, federal, state, local and provincial) applicable to your use of the Service and your Content (defined below), including but not limited to, copyright laws.\nd.     You are solely responsible for your conduct and all User Content that you submit, post or display on or via the PathVu Services.\ne.     You must not change, modify, adapt or alter the PathVu Services or change, modify or alter another website so as to falsely imply that it is associated with the PathVu Service or PathVu.\nf.      You must not access PathVu's private API by means other than those permitted by PathVu. To the extent PathVu permits the use of PathVu's API, such use will be subject to a separate set of terms available from PathVu’s web site (\"API Terms\").\ng.     You must not use domain names or web URLs in your username without prior written consent from PathVu.\nh.     You must not interfere or disrupt the PathVu Services or servers or networks connected to the PathVu Services, including by transmitting any worms, viruses, spyware, malware or any other code of a destructive or disruptive nature. You may not inject content or code or otherwise alter or interfere with the way any PathVu page is rendered or displayed in a user's browser or device.\ni.      You must not attempt to restrict another user from using or enjoying the PathVu Services and you must not encourage or facilitate violations of these Terms of Use or any other PathVu terms.\nj.      Violation of these Terms of Use may, in PathVu’s sole discretion, result in termination of your PathVu account.\nk.     If you violate the letter or spirit of these Terms of Use, or otherwise create risk or possible legal exposure for PathVu, we reserve the right to stop providing all or part of the PathVu Services to you.\n \n8.  MISCELLANEOUS\n8.1 Full Integration. These Terms of Use, including the PathVu Privacy Policy incorporated by reference herein, constitute the entire agreement between you and Licensor related to your access to and use of the Application and the other PathVu Services hereunder.  No prior or contemporaneous written, oral, and electronic representation, negotiation, or agreement form a part of this agreement, and these Terms of Use, including the PathVu Privacy Policy, as each may be amended by Licensor from time to time, supersede all prior written, oral, or electronic agreements between you and Licensor relating to your access to, and use of, PathVu Services hereunder.\n \n8.2 Written Agreement. These Terms of Use constitute a written agreement between you and Licensor. A printed version of these Terms of Use, and of any notice given in electronic form related to this agreement, shall be admissible in judicial or administrative proceedings to the same extent, and subject to the same restrictions, as other business contracts, documents, or records originally generated and maintained in printed form.\n \n8.3 Electronic Form of Agreement. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.\n \n8.4  Modifications To the Agreement. Licensor has the right to modify this Agreement and any policies affecting the PathVu Service, including without limitation the PathVu Privacy Policy. Any modification is effective immediately upon posting by Licensor. Your continued use of the PathVu Services hereunder following notice of any modification to these Terms of Use shall be conclusively deemed an acceptance of all such modification(s). Your only right with respect to any dissatisfaction with any modifications made pursuant to this provision, or any policies or practices of Licensor in providing the PathVu Services, including without limitation any change to the PathVu Content, is to cease using the PathVu Service.\n \n8.5  Governing Law.  You agree with Licensor that these Terms of Use shall be considered a contract governed by the laws of the Commonwealth of Pennsylvania and that by clicking to accept these Terms of Use you are entering into a legally binding agreement with Licensor using electronic signatures pursuant to the laws of the Commonwealth of Pennsylvania. Any disputes regarding these Terms of Use shall be heard by the state and federal courts located in the Commonwealth of Pennsylvania, and each party consents to the exclusive jurisdiction of such courts.  PathVu Content is provided by Licensor from its facilities in the United States of America.  Licensor makes no representation that PathVu Services or PathVu Content are appropriate or available for use in other locations, and access to them from territories where any of the PathVu Services or PathVu Content are illegal is prohibited. Those who choose to use and/or access PathVu Services or PathVu Content from other locations do so of their own volition and are responsible for compliance with applicable local laws.\n \n8.6 No Waiver.  Failure to insist on strict performance of any of the Terms of Use will not operate as a waiver of any subsequent default or failure of performance.\n \n8.7 Severability.  If any part of these Terms of Use is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms of Use shall continue in effect.\n \n8.8 Relationship Between the Parties. Nothing contained in these Terms of Use shall be construed to constitute you and Licensor as partners or joint venturers or to constitute employment or any type of agency.\n \n8.9  Events Beyond Licensor's Control.  Licensor will use reasonable efforts to keep the Application and PathVu Services available for your use; however, Licensor cannot and will not be responsible for any loss or unavailability of access to PathVu Services that results from any cause including a cause over which it does not have direct control, including, but not limited to, failure of electronic or mechanical equipment or communication lines, wireless data or other interconnect problems, computer viruses, unauthorized access, theft, operator errors, severe weather, earthquakes, or natural disasters, strikes or other labor problems, wars, or governmental restrictions.\n \n8.10 Descriptive Headings. The headings of the various sections herein are for convenience of reference only and shall not define, limit or otherwise affect any of the terms or provisions hereof.\n \n8.11  Mandatory Arbitration. \nUNLESS YOU OPT-OUT, YOU AGREE THAT ALL DISPUTES BETWEEN YOU AND PATHVU (WHETHER OR NOT SUCH DISPUTE INVOLVES A THIRD PARTY) WITH REGARD TO YOUR RELATIONSHIP WITH PATHVU, INCLUDING, WITHOUT LIMITATION, DISPUTES RELATED TO THESE TERMS OF USE, YOUR USE OF THE PATHVU SERVICES, AND/OR RIGHTS OF PRIVACY AND/OR PUBLICITY, WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION UNDER THE AMERICAN ARBITRATION ASSOCIATION'S RULES FOR ARBITRATION OF CONSUMER-RELATED DISPUTES AND YOU AND PATHVU HEREBY EXPRESSLY WAIVE TRIAL BY JURY. As an alternative, you may bring your claim in your local \"small claims\" court, if permitted by that small claims court's rules. You may bring claims only on your own behalf. Neither you nor PathVu will participate in a class action or class-wide arbitration for any claims covered by this Agreement. You also agree not to participate in claims brought in a private attorney general or representative capacity, or consolidated claims involving another person's account, if PathVu is a party to the proceeding. This dispute resolution provision will be governed by the Federal Arbitration Act. Judgment on the award rendered by the arbitrator shall be issued to both parties in a writing setting forth in reasonable detail the reasoning for the decision and award and such award may be entered in any court having competent jurisdiction. Any provision of applicable law notwithstanding, the arbitrator will not have authority to award damages, remedies or awards that conflict with these Terms of Use.\n \nYou may opt out of this agreement to arbitrate. If you do so, neither you nor PathVu can require the other to participate in an arbitration proceeding. To opt out, you must notify PathVu in writing within 30 days of the date that you first became subject to this arbitration provision. You must use this address to opt out:\n Pathway Accessibility Solutions, Inc.\n1401 Forbes Ave., Ste. 303\nPittsburgh, PA 15219\n \nYou must include your name and residence address, an email address, and a clear and specific statement that you want to unconditionally opt out of this arbitration agreement.\n \nIf the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then all of the preceding language in this Arbitration section will be null and void. This arbitration agreement will survive the termination of your relationship with PathVu.\n \nNotwithstanding anything to the contrary set forth above, this Arbitration section shall not apply to disputes relating to: (1) your or PathVu's intellectual property (such as trademarks, trade dress, domain names, trade secrets, copyrights and patents); (2) violations of the API Terms; (3) violations of the Acceptable Use Policy; or (4) any dispute in which PathVu is seeking injunctive or equitable relief to prevent further breaches of these Terms of Use by a User.\n\n\n"; ObjectID = "2VP-gQ-pe8"; */
+"2VP-gQ-pe8.text" = "June 13, 2018\nPATHVU APP LICENSE AND SERVICES\nTERMS AND CONDITIONS OF USE\nThank you for your interest in PathVu and for downloading the PathVu mobile device application (the \"Application\") providing access to PathVu content and services, including without limitation, sidewalk hazard flagging, the photo upload, geotagging, pedestrian navigation, and hosting services (collectively, such content and services, together with the Application, are referred to herein as the \"PathVu Services\"), and all provided by Pathway Accessibility Solutions, Inc. (\"Licensor\").  Download, installation and use of the Application, and access to PathVu Services, however accessed, are all offered to you, the individual user, by Licensor subject strictly to the terms and conditions set forth below.\n \nPLEASE READ THIS DOCUMENT CAREFULLY!  THESE LICENSE AND SERVICES TERMS OF USE (THE \"TERMS OF USE\") GOVERN YOUR DOWNLOAD AND USE OF THE APPLICATION AND PATHVU SERVICES INCLUDING IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS AS WELL AS LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU.  PLEASE PRINT OUT A COPY OF THESE TERMS OF USE TO KEEP FOR YOUR OWN RECORDS.  THE MOST CURRENT VERSIONS OF THESE TERMS IS AVAILABLE IN THE APPLICATION.\n \nBy downloading, installing and/or using the Application, or otherwise accessing or using the PathVu Services, as applicable, you (the \"User\" or \"you\") acknowledge your legally binding acceptance of and agreement to these Terms of Use. If you do not agree to these Terms of Use, you are not authorized to use the Application or any other PathVu Services and should discontinue any use of the Application, and all other PathVu Services.\n \nLicensor reserves the right to change or modify these Terms of Use from time to time. Licensor will post any changes to the Terms of Use.  The date of the latest changes will be indicated at the top of the document.  You are advised to check the Terms of Use periodically for updates.  Continued use of this Application following the posting of changes will mean that you agree to be bound by such changes.\n \nARBITRATION NOTICE:  UNLESS YOU OPT-OUT AND/OR EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE ARBITRATION SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND PATHVU WILL BE RESOLVED BY MANDATORY, BINDING ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.\n \n1. GENERAL TERMS\n \n1.1 Licenses. Subject to the terms and conditions of this Agreement, Licensor hereby grants to you a personal, fully revocable, non-transferable and non-exclusive license to (a) download, install and use the Application on a mobile device that you own or control for the sole purpose of accessing the PathVu Services, any upgrades, updates or corrections thereto provided by Licensor to you, if any, and related user documentation  offered by Licensor to you; and (b) access and use the PathVu Services exclusively through the Application  within the United States.  No access to PathVu Services through any means other than the Application is granted hereunder.  Licensor reserves the right to refuse access to the PathVu Services to anyone for any reason at any time.\n \n1.2 Not Intended for Children Age of 13 or Under.  Licensor offers the PathVu Services exclusively for the use of individuals who are over the age of 13.  Content made available through PathVu Services  will be geotagged.  We do not solicit or knowingly collect personal information from persons under the age of thirteen, and we do not knowingly market our products or services to persons under such age.  Accounts of Users under the age of 13 years will be cancelled and deleted by Licensor, upon receiving notice at contact@pathvu.com.\n \n1.3  PathVu Content.  You may not, under any circumstances, copy, access or otherwise use PathVu Services separate or apart from your use of the Application, whether to create a derivative work of all or any part of the PathVu Services or otherwise.  Additionally, by way of example, and not limitation, unless expressly authorized under these Terms of Use, you may not sublicense, alter, adapt, transmit, publicly perform or display, distribute, customize, modify, add to, delete from, create derivative works based upon any portion of the PathVu Services, copy, screen capture, counterfeit or paste content available through PathVu Services, excepting User Content as discussed below, (\"PathVu Content\") to any other website or web page.  PathVu does not claim ownership of User Content that you post or generate on or through PathVu Services.  Such User Content is more specifically addressed in Section 1.7 below.  PathVu Content available through PathVu Services includes content owned or licensed by PathVu.  PathVu Content is protected by copyright, trademark, patent, trade secret and other laws, and, as between you and PathVu, PathVu owns and retains all rights in PathVu Services, including without limitation the Application and PathVu Content.  Without Licensor's prior written consent, you may not, and may not permit others to: (a) modify or create any derivative works of the Application, PathVu Content or its components; (b) decompile, disassemble, reverse engineer, reduce the Application or any other PathVu Services to perceptible form, or otherwise attempt to learn the source code, structure, algorithms or ideas underlying the Application or other PathVu Services that include software (except to the extent applicable laws specifically prohibit such restriction); (c) sell, distribute or otherwise make available the PathVu Services or components thereof, or this license, in any way; (d) repackage or bundle the Application with other software: or (e) remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels in the Application, the PathVu Services or PathVu Content. You acknowledge and agree that modification of the PathVu Content or use of the PathVu Content for any other purpose is a violation of Licensor's, our licensors' and suppliers' and possibly other third parties' copyright and proprietary rights. You agree to use the PathVu Services only for purposes which are lawful in applicable national and local jurisdictions and all subdivisions thereof. If you violate any provision of these Terms of Use, your permission to use and access the PathVu Services automatically terminates and you must immediately cease use of the PathVu Services. Any other use or exploitation of the PathVu Services, including without limitation the Application and the PathVu Content, is strictly prohibited. You agree not to interrupt, or attempt to interrupt, the operation of the PathVu Services in any way.\n \n1.4  PathVu Brand Materials.  The PathVu name and logo are trademarks and/or service marks of Licensor and may not be copied, imitated or used, in whole or in part, without the prior written permission of Licensor, except to the extent Licensor publishes brand use guidelines on Licensor’s web site from time to time. \n \n1.5 Disclaimer; Nature of Services. THE PATHVU SERVICES, INCLUDING, WITHOUT LIMITATION, THE APPLICATION AND PATHVU CONTENT, IS PROVIDED ON AN \"AS IS\", \"AS AVAILABLE\" AND \"WITH ALL FAULTS\" BASIS. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, NEITHER PATHVU NOR ITS EMPLOYEES, MANAGERS, OFFICERS, AGENTS, LICENSORS, OR SUPPLIERS (COLLECTIVELY, THE \"PATHVU PARTIES\") MAKE ANY REPRESENTATIONS OR WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, AS TO: (A) THE APPLICATION; (B) THE PATHVU SERVICES; (C) THE PATHVU CONTENT; (D) USER CONTENT; OR (E) SECURITY ASSOCIATED WITH THE TRANSMISSION OF INFORMATION TO, OR FROM, PATHVU OR VIA THE PATHVU SERVICES. IN ADDITION, THE PATHVU PARTIES HEREBY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, SYSTEM INTEGRATION AND FREEDOM FROM COMPUTER VIRUS.  NOTHING HEREIN SHALL BE CONSTRUED AS A WARRANTY OF COMPATIBILITY WITH ANY PARTICULAR MOBILE/COMPUTING DEVICE, OPERATING SYSTEM, OR OTHER SOFTWARE RESIDENT ON YOUR DEVICE. \n \nTHE PATHVU PARTIES DO NOT REPRESENT OR WARRANT THAT THE PATHVU SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED; THAT DEFECTS WILL BE CORRECTED; OR THAT THE PATHVU SERVICES OR THE SERVER(S) THAT MAKES THE PATHVU SERVICES AVAILABLE IS FREE FROM ANY HARMFUL COMPONENTS, INCLUDING, WITHOUT LIMITATION, VIRUSES. THE PATHVU PARTIES DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT THE INFORMATION (INCLUDING ANY INSTRUCTIONS) ON THE PATHVU SERVICES IS TRUE, VALID, ACCURATE, COMPLETE, OR USEFUL. YOU ACKNOWLEDGE THAT YOUR USE OF THE PATHVU SERVICES IS AT YOUR SOLE RISK AND YOU EXPRESSLY ASSUME AND HEREBY EXPRESSLY RELEASE THE PATHVU PARTIES FROM ALL LIABILITY, IN TORT, CONTRACT OR OTHERWISE, INCURRED IN CONNECTION WITH THE USE OF THE APPLICATION AND THE OTHER PATHVU SERVICES. THE PATHVU PARTIES DO NOT WARRANT THAT YOUR USE OF THE PATHVU SERVICES IS LAWFUL IN ANY PARTICULAR JURISDICTION, AND THE PATHVU PARTIES SPECIFICALLY DISCLAIM SUCH WARRANTIES.\n \nBY ACCESSING OR USING THE SERVICE YOU REPRESENT AND WARRANT THAT YOUR ACTIVITIES ARE LAWFUL IN EVERY JURISDICTION WHERE YOU ACCESS OR USE THE SERVICE.\n \nIN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE PATHVU SERVICES OR WITH THE DELAY OR INABILITY TO USE THE PATHVU SERVICES, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. Licensor makes no warranties, express or implied, that the use of the PathVu Services does not infringe any patent or copyright of any third party.\n \n1.6 Account; Location-Based Service.  You may access or use the Application and PathVu Services without setting up a username and password.  Licensor will link all of your information with a unique identifier generated by Licensor that is not tied to personally identifiable information. Take note that PathVu Services makes use of detailed location information, for example in the form of GPS signals and other information sent by your mobile device on which the Application is installed and activated. PathVu Services cannot be provided without utilizing this technology.\n \n1.6.1       Username/Password. You may be asked to create a username and password (combined, the “User Identity”).  You shall hold and secure any such User Identity as strictly confidential. Third parties with knowledge of your User Identity can gain access to your account information  and take other actions for which you will be held accountable and liable. Licensor is entitled to, and will, assume that any person using the PathVu Services under your User Identity is you and will hold you liable and responsible for all actions and/or statements made under your User Identity.  Licensor shall not be responsible whatsoever in the event that your User Identity is used by an unauthorized entity or misappropriated by a third party. We reserve the right to refuse or reject any username for any reason and/or force forfeiture of any username at any time for any reason.\nIf you provide any information that is untrue, inaccurate, not current or incomplete, Licensor has the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).\n \n1.7 Posted Materials. ANY COMMUNICATION OF MATERIAL YOU TRANSMIT TO LICENSOR VIA THE PATHVU SERVICE, OR OTHERWISE BY UPLOAD, POSTING, ELECTRONIC MAIL OR OTHERWISE, INCLUDING ANY IMAGE, VIDEO, MULTIMEDIA, DATA, QUESTIONS, COMMENTS, SUGGESTIONS OR THE LIKE IS, AND WILL BE TREATED AS, NON-CONFIDENTIAL AND NON-PROPRIETARY.  Except as expressly set forth below or in our Privacy Policy, anything you transmit or post may be used by Licensor for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting.  Furthermore, Licensor is free to use any ideas, concepts, know-how, or techniques contained in any communication you send to Licensor for any purpose whatsoever, including, but not limited to, developing, manufacturing, and marketing products using such information without incurring any obligation whatsoever to you, and by sending such communication, you waive all your rights thereto. You agree that you are solely responsible for all data charges you incur in the use of the PathVu Services, including without limitation data charges incurred in uploading images from a mobile device to the PathVu Services using a cellular data connection.\n \n1.7.1.  User Content.  PathVu does not claim ownership of any images or other material that you transmit, post, upload, create, or generate on or through PathVu Services (“User Content”).  However, by transmitting, posting, uploading, creating or generating such User Content on or through PathVu Services, you automatically grant to Licensor a worldwide, royalty-free, sublicensable, perpetual, irrevocable, non-exclusive, transferable right and license to use, reproduce, modify, adapt, publish, edit, translate, distribute, publicly perform, display and otherwise exploit such material, including, but not limited to, all rights in copyright to such material and all elements thereof alone or as part of other works, throughout the universe, in perpetuity, in any form, media, or technology, whether now known or hereafter devised, and to sublicense such rights through multiple tiers of sublicenses, all without any obligation to you or any third parties, whether by way of compensation, attribution or otherwise.  Such license granted to Licensor extends to any commercial use of User Content, at Licensor's sole and absolute discretion. You agree that Licensor is not responsible for, and does not endorse, User Content posted within the PathVu Services. Licensor does not have any obligation to prescreen, monitor, edit, or remove any User Content, however Licensor may, but have no obligation to, remove, edit, block, and/or monitor User Content or User accounts containing User Content that Licensor determines in its sole discretion violates these Terms of Use.  If your User Content violates these Terms of Use, you may bear legal responsibility for such User Content.\n \n1.7.2       You acknowledge and agree that you elect to share or publish your User Content through the PathVu Services at your own risk.  You acknowledge and agree that, once you have posted your User Content, PathVu cannot thereafter guarantee that such posted User Content can be deleted from the PathVu Services. You agree that PathVu is not responsible or liable for the conduct of any User. Please take note that no security measures are perfect or impenetrable. We cannot control the actions of other users. Therefore, we cannot and do not guarantee that your account information or User Content that you may share or publish through PathVu Services, will not be accessible to the general public or otherwise viewed by unauthorized persons. We are not responsible for circumvention of any security measures we provide. You understand and acknowledge that, even after removal, User Content may remain viewable in cached and archived pages or if other users have copied or stored all, or parts of, such information.\n \n1.7.3  From time to time, Licensor may elect to display promotions and advertisements, and you hereby agree that Licensor may place such promotions and advertising on the PathVu Services or on, about, or in conjunction with your User Content.  The manner, mode and extent of such advertising and promotions are subject to change without specific notice to you.  You acknowledge that Licensor may not always identify aid services, sponsored content, or commercial communications as such.\n \n1.7.4       You represent, warrant, and guarantee that (a) you have the full and unrestricted right to grant the rights to User Content as set forth in Section 1.7.1 above, and that there are no other agreements with any third party in conflict herewith; (b) posting and use of your User Content on or through the PathVu Services do not violate, misappropriate, or infringe on the rights of any third party, including without limitation, privacy rights, publicity and likeness rights, copyrights, trademark and/or other intellectual property rights; (c) Licensor's exercise of its rights granted by you hereunder shall not infringe upon any copyright or any other subsisting right of any third party; (d) you agree to pay for all royalties, fees, and any other monies or obligations owed by reason of User Content you post on or through the PathVu Services; (e) your User Content will comply in all respects with the Acceptable Use Policy set forth below; and (f) you have the legal right and capacity to enter into these Terms of Use in your jurisdiction. You waive any and all so-called \"Moral Rights\" or similar rights under any jurisdiction, now or hereafter recognized with respect to Licensor's (or its assignee’s) exercise of its rights hereunder. Moreover, you agree to indemnify and hold PathVu harmless from and against any and all claims, demands, damages, losses, liabilities and causes of action of any kind or character, made by you or any third party against PathVu, arising out of or relating to PathVu’s exercise of such rights to User Content, your publication or transmittal of any materials, or your failure to comply or your alleged failure to comply with these Terms of Use.  This defense and indemnification obligation shall survive this Agreement and your use of the Application and/or the PathVu Services. \n \n1.8 Objectionable Material. You understand that through your use of the PathVu Services you may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as such. Pursuant to Section 1.7.1, Licensor does not have any obligation to monitor or remove any User Content. However, Licensor requests that you report content which you deem objectionable to contact@pathvu.com. You agree to use the PathVu Services at your sole risk and that Licensor shall have no liability to you for the type of content that you may access, including without limitation content that you may find offensive, indecent, or objectionable.\n \n1.9  Links to Other Sites.  PathVu Services may provide access and/or hyperlinks to other third party sites and content on the Internet. Such third party sites and content so linked have not necessarily been reviewed by Licensor and are maintained by third parties over which Licensor exercises no control. Licensor expressly disclaims any responsibility for the i) content or accuracy of information contained on such linked content; ii) quality of any product or service provided by or advertised in or by any such third party content. Licensor neither endorses nor makes any representation regarding any linked site, product, service and/or content, and we advise you to assess for yourself the adequacy and appropriateness of any linked site, product, service and/or content for your own purposes. Licensor expressly disclaims any responsibility for the quality, adequacy, or appropriateness of any product or service provided by or advertised by any linked site.\n \n1.10 No Right To Continued Service. Licensor reserves the right to amend the Application, PathVu Services and/or the interface, functionality and/or operation of the Application or the PathVu Services at any time and without prior notice.  At any time without notice, Licensor may add, delete or disable content, and/or add, delete, disable or modify some or all of the PathVu Services, at its sole election, and you acknowledge: (1) that you may no longer be able to use the Application, and/or other aspects of the PathVu Services to the same extent - or at all - as prior to such change or discontinuation, and (2) that Licensor shall have no liability to you in such case. In no event will Licensor be liable for the removal of or disabling of access to any content, materials or functionality. Licensor may also impose limits on the use of or access to certain features or portions of the content, other aspects or components of the PathVu Service, in any case and without notice or liability.\n \n1.11        Esri Maps.  The Application and PathVu Services rely on the ArcGIS Maps service provided by Environmental Systems Research Institute, Inc. (\"Esri\").  By using the Application and PathVu Services, you agree and acknowledge that use of Esri Maps functionality integrated into the Application is subject to the Esri Master Agreement (http://www.esri.com/~/media/Files/Pdfs/legal/pdfs/ma-full/ma-full.pdf).\n \n \n2. PAIDVU DATA COLLECTORS\n \n \n2.1 Becoming a paidVu data collector. You can only become a paidVu data collector by signing up online at pay.pathvu.com. The paidVu data collection program is available for a limited time and participation is offered based on availability.  PathVu has the right to refuse data collectors for any reason.  PathVu has the right to stop the program at any time without prior notice to participants.\n \n \n2.2 Performing data collection. By collecting data, you agree to use your best efforts, skills and abilities to report data in a professional and workmanlike manner as stated in this agreement.\n \n \n2.3 Evaluation of paidVu data. When you have completed and delivered reported data, PathVu may evaluate the data to determine, in their sole discretion, whether they comply with the requirements of this Agreement. If there are discrepancies with the data reported relative to this agreement, the data collector will not receive the Fee for the data collected, if any.\n \n \n2.4 \n \n3. PAYMENT TO PAIDVU DATA COLLECTORS\n \nThe Fee to paidVu data collectors, less any payment processing fees, will be remitted by our third party payment processor, PayPal, each Monday provided that the total amount due to you is at least $5 (the \"Minimum\"). A paidVu data collector may receive a maximum of $50 in one payment week for the data collected.  A payment week lasts for seven days and ends at 11:59 p.m. on Sunday, prior to payment.  Payment shall be paid to the data collector for the previous week of data collection only.  For any week in which the total amount due to you is less than the Minimum, the balance may be carried over to the following week. Unless otherwise stated, all Fees are quoted in U.S. Dollars. You are responsible for paying all applicable taxes and for all expenses incurred by you in connection with performing the data collection or otherwise performing your obligations under this Agreement. We may be obligated by law to obtain tax information from you. If we request tax information from you and you do not provide it, we may (in addition to any other rights or remedies available to us) withhold your Fees until you provide this information or otherwise satisfy us that you are not a person from whom we are required to obtain tax information.\n \n \n4. PAIDVU DATA COLLECTOR INDEPENDENT CONTRACTOR RELATIONSHIP\n \n \nFor paidVu data collectors, it is understood and agreed that your relationship with PathVu is that of an independent contractor. Nothing in this Agreement is intended or should be construed to create a partnership, joint venture, employment agency, or employer-employee relationship between PathVu and you. You will take no position with respect to or on any tax return or application for benefits, or in any proceeding directly or indirectly involving PathVu that is inconsistent with your being an independent contractor (and not an employee) of PathVu. You are not the agent of PathVu and you are not authorized, and must not represent to any third party that you are authorized, to make any commitment or otherwise act on behalf of PathVu. Without limiting the generality of the foregoing:\n \n \n4.1 Benefits and Contributions. You are not entitled to or eligible for any benefits that PathVu may make available to its employees, such as group insurance, profit-sharing or retirement benefits. Because you are an independent contractor, PathVu will not withhold or make payments for social security, make unemployment insurance or disability insurance contributions, or obtain workers' compensation insurance on your behalf. If, notwithstanding the foregoing, you are reclassified as an employee of PathVu, or any affiliate of PathVu, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal, state or foreign agency as the result of any administrative or judicial proceeding, you hereby elect not to participate in, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by PathVu.\n \n \n4.2 Taxes. Since you are an independent contractor and not an employee of PathVu, we do not withhold income or employment taxes or any other amounts from any Fees paid to you under this Agreement. You are solely responsible for filing all tax returns and paying all amounts required by any federal, state, local, or foreign tax authority arising from the payment of Fees to you under this Agreement, and you agree to do so in a timely manner. Because all PathVu Fees are remitted through PayPal, the issuance of a Form 1099-K to you (and the filing of a copy of that Form with the Internal Revenue Service), if any, will be done by PayPal. Please be advised that, in general, all Fees paid to you under this Agreement are considered taxable income, even if you do not receive a Form 1099-K from PayPal, or the amount reported on any such Form 1099-K is less than total Fees paid to you under this Agreement. We recommend that you consult your own tax advisor for information on your personal tax situation.\n \n \n4.3 Compliance with Law. You will comply with all applicable federal, state, local, and foreign laws governing self-employed individuals, including laws requiring the payment of taxes, such as income and employment taxes, and social security, disability and other contributions.\n \n5. OWNERSHIP AND INTELLECTUAL PROPERTY\n5.1 Ownership. Licensor is the owner and proprietor of the PathVu Services.  The PathVu Services, including without limitation the Application, PathVu Content, and storage, processing and hosting of User Content, as accessed through the PathVu Services are offered to you by Licensor for limited use pursuant to these Terms of Use.  You agree and acknowledge that you shall not acquire any ownership rights by accessing or downloading PathVu Content through the PathVu Services or otherwise.\n \n5.2 Copyright.  Unauthorized use of any material accessed through or contained on the PathVu Services, may violate copyright laws, trademark laws, trade secret laws, the laws of privacy and publicity, and other regulations and statutes.  PathVu Content is owned by Licensor and/or its licensors, and content providers and is protected by applicable domestic and international copyright laws.  The compilation of all PathVu Content through the PathVu Services and its presentation through the Application is the exclusive property of Licensor and protected by U.S. and international copyright laws.  Text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, presented on or through the PathVu Services is Copyrighted by Pathway Accessibility Solutions, Inc. All rights reserved. Any rights not expressly granted to you herein are reserved. Any violation of copyright laws may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.\n \n5.3 Trademark. “PathVu”, the PathVu logo, and all graphics, logos, page headers, titles, button icons, scripts, service names and other trademarks and service marks on the PathVu Services are trademarks, trade dress and service marks belonging to Licensor or its licensors (the \"Licensor Marks\"). Licensor Marks may not be used in connection with any product or service that is not related to Licensor or the PathVu Services, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Licensor or the PathVu Services. Licensor Marks may not be copied, imitated or used, in whole or in part, without prior written permission from Licensor.  All other trademarks not owned by Licensor that appear via the PathVu Services are the property of their respective owners, who may or may not be affiliated with, connected to, sponsor, or sponsored by Licensor.   Any product, service, or trade name other than those owned by Licensor that identify a third party as the source thereof may, even if not so indicated, be the service mark or trademark of that respective entity or individual.  Any unauthorized use of the Licensor Marks or any third party trademark is strictly prohibited. \n \n5.4 Complaints; DMCA. If you believe that your trademark, service mark, or copyrightable work of authorship has been copied and/or is being displayed via the PathVu Service in such a way that would give rise to a claim for misappropriation or infringement, please follow the procedure regarding Notice and Claims:\n \nNOTICE REQUIREMENTS\n(a)  An electronic or physical signature of the person authorized to act on behalf of the owner of the intellectual property interest;\n(b)  A description of the protected mark or copyrighted work that you claim has been infringed upon;\n(c)  A description of the manner in which the material that you claim is infringing is accessed via the PathVu Services, including any information which would assist Licensor in identifying and locating that material;\n(d)  Your address, telephone number and e-mail address;\n(e)  A statement by you that you have a good faith belief that the disputed use is not authorized by the owner, its agent, or permissible by law;\n(f)  A statement by you under the penalty of perjury that the information in your notice is accurate that you are the mark holder, copyright owner or authorized to act on such party's behalf.\n \nAGENT FOR CLAIMS\nPathway Accessibility Solutions, Inc.\n1297 Royal Park Boulevard\nSouth Park, PA 15129\nE-Mail: contact@pathvu.com\n \n6.  DISCLAIMER OF WARRANTY; LIMITATION OF LIABILITY\n \n6.1  As with any online interaction and electronic communication, there is an inherent risk involved in transmitting any information via the Internet. Licensor does not and cannot guarantee that its system is free from hackers or viruses or that information provided by users to Licensor will not be stolen or otherwise surreptitiously obtained. Licensor is not responsible or liable for any infections or contamination of your system or delays, inaccuracies, errors, or omissions arising out of your use of the PathVu Services. You hereby acknowledge and understand that such risk is inherent in interacting with systems over the Internet, and take full responsibility for any harm, danger or damage that ensues due to any such breach in security. Pursuant to these Terms of Use, to the fullest extent permitted by applicable law, Licensor expressly disclaims any such liability. In addition, you agree to be responsible for obtaining and maintaining all hardware and other equipment needed for access to and use of PathVu Services and you shall be responsible for all charges related thereto.\n \n6.2  LICENSOR DOES NOT ENDORSE ANY PARTICULAR PATHVU CONTENT OR USER CONTENT OR ANY OPINION, RECOMMENDATION, OR ADVICE EXPRESSED THEREIN.  UNDER NO CIRCUMSTANCES WILL LICENSOR BE LIABLE IN ANY WAY FOR PATHVU CONTENT OR USER CONTENT, INCLUDING BUT NOT LIMITED TO, ANY ERRORS OR OMISSIONS IN ANY PATHVU CONTENT OR USER CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY PATHVU CONTENT OR USER CONTENT ACCESSED, TRANSMITTED OR OTHERWISE MADE AVAILABLE THROUGH THE APPLICATION AND/OR PATHVU SERVICES.  You agree that any claim you may have arising out of or related to your relationship with PathVu must be filed within one year after such claim arose; otherwise, your claim is permanently barred.\n \n6.3 WITHOUT WAIVING THE EXCLUSIVE GOVERNING LAW CLAUSE BELOW, SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE LIMITATIONS OR EXCLUSIONS SET FORTH IN THIS AGREEMENT MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, THE LIABILITY OF LICENSOR, THIRD PARTY CONTENT PROVIDERS, AND THEIR RESPECTIVE AGENTS SHALL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. NOTHING CONTAINED IN THESE TERMS OF USE SHALL LIMIT OR EXCLUDE OR PURPORT TO LIMIT OR EXCLUDE ANY LIABILITY WHERE SUCH LIMITATION OR EXCLUSION IS VOID OR UNENFORCEABLE OR OTHERWISE NOT PERMITTED UNDER APPLICABLE LAW.\n \n6.4 Termination. In addition to any other rights of the parties set forth herein, either you or Licensor may cancel or terminate this Agreement at any time for any, or no reason.  You may terminate this Agreement at any time by ceasing use of the PathVu Services, and all components of the PathVu Services.  If Licensor terminates this Agreement for your material breach, Licensor reserves the right to suspend or terminate your access to the PathVu Services in the future.  If we terminate your access to the PathVu Services or you elect to deactivate your account, your User Content, including without limitation images and all other such user data will no longer be accessible through your account, but those materials and data may persist and appear elsewhere within the PathVu Services.  Upon termination, all licenses and other rights granted to you in these Terms of Use will immediately cease.  Notwithstanding the expiration or termination of this Agreement by either party, the parties acknowledge and agree that the provisions of Sections 1.3, 1.4. 1.5, 1.8, 1.9, 1.10, 1.12, 1.13, 2, 3 and 5 shall expressly survive such termination or expiration and remain in full force and effect.\n \n6.5 Indemnity. You (and also any third party for whom you operate an account or activity on the PathVu Services) hereby agree to indemnify, defend and hold harmless Licensor and its affiliates from and against any and all liability and costs incurred by Licensor or the affiliates in connection with any claim arising out of (i) any breach or alleged breach of any of your obligations set forth herein; (ii) your User Content or your access to or use of the PathVu Services; (iii) your violation of any third-party right, including without limitation, any intellectual property right, publicity, confidentiality, property or privacy right; (iv) your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental and quasi-governmental authorities, including, without limitation, all regulatory, administrative and legislative authorities; or (v) any misrepresentation made by you. You shall cooperate as fully as reasonably required in the defense of any claim. Licensor reserves the right, at its own expense, but is not obligated, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of Licensor.\n \n7.  ACCEPTABLE USE POLICY\na.     You may not post profane, violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic or sexually suggestive photos or other similar content via the PathVu Services in contravention of the intended purpose of mapping sidewalks for wheelchair and pedestrian accessibility.\nb.     You must not defame, stalk, bully, abuse, harass, threaten, impersonate or intimidate people or entities and you must not post private or confidential information via the PathVu Services, including, without limitation, your or any other person's credit card information, social security or alternate national identity numbers, non-public phone numbers or non-public email addresses.\nc.     You may not use the PathVu Services for any illegal or unauthorized purpose. You agree to comply with all laws, rules and regulations (for example, federal, state, local and provincial) applicable to your use of the Service and your Content (defined below), including but not limited to, copyright laws.\nd.     You are solely responsible for your conduct and all User Content that you submit, post or display on or via the PathVu Services.\ne.     You must not change, modify, adapt or alter the PathVu Services or change, modify or alter another website so as to falsely imply that it is associated with the PathVu Service or PathVu.\nf.      You must not access PathVu's private API by means other than those permitted by PathVu. To the extent PathVu permits the use of PathVu's API, such use will be subject to a separate set of terms available from PathVu’s web site (\"API Terms\").\ng.     You must not use domain names or web URLs in your username without prior written consent from PathVu.\nh.     You must not interfere or disrupt the PathVu Services or servers or networks connected to the PathVu Services, including by transmitting any worms, viruses, spyware, malware or any other code of a destructive or disruptive nature. You may not inject content or code or otherwise alter or interfere with the way any PathVu page is rendered or displayed in a user's browser or device.\ni.      You must not attempt to restrict another user from using or enjoying the PathVu Services and you must not encourage or facilitate violations of these Terms of Use or any other PathVu terms.\nj.      Violation of these Terms of Use may, in PathVu’s sole discretion, result in termination of your PathVu account.\nk.     If you violate the letter or spirit of these Terms of Use, or otherwise create risk or possible legal exposure for PathVu, we reserve the right to stop providing all or part of the PathVu Services to you.\n \n8.  MISCELLANEOUS\n8.1 Full Integration. These Terms of Use, including the PathVu Privacy Policy incorporated by reference herein, constitute the entire agreement between you and Licensor related to your access to and use of the Application and the other PathVu Services hereunder.  No prior or contemporaneous written, oral, and electronic representation, negotiation, or agreement form a part of this agreement, and these Terms of Use, including the PathVu Privacy Policy, as each may be amended by Licensor from time to time, supersede all prior written, oral, or electronic agreements between you and Licensor relating to your access to, and use of, PathVu Services hereunder.\n \n8.2 Written Agreement. These Terms of Use constitute a written agreement between you and Licensor. A printed version of these Terms of Use, and of any notice given in electronic form related to this agreement, shall be admissible in judicial or administrative proceedings to the same extent, and subject to the same restrictions, as other business contracts, documents, or records originally generated and maintained in printed form.\n \n8.3 Electronic Form of Agreement. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.\n \n8.4  Modifications To the Agreement. Licensor has the right to modify this Agreement and any policies affecting the PathVu Service, including without limitation the PathVu Privacy Policy. Any modification is effective immediately upon posting by Licensor. Your continued use of the PathVu Services hereunder following notice of any modification to these Terms of Use shall be conclusively deemed an acceptance of all such modification(s). Your only right with respect to any dissatisfaction with any modifications made pursuant to this provision, or any policies or practices of Licensor in providing the PathVu Services, including without limitation any change to the PathVu Content, is to cease using the PathVu Service.\n \n8.5  Governing Law.  You agree with Licensor that these Terms of Use shall be considered a contract governed by the laws of the Commonwealth of Pennsylvania and that by clicking to accept these Terms of Use you are entering into a legally binding agreement with Licensor using electronic signatures pursuant to the laws of the Commonwealth of Pennsylvania. Any disputes regarding these Terms of Use shall be heard by the state and federal courts located in the Commonwealth of Pennsylvania, and each party consents to the exclusive jurisdiction of such courts.  PathVu Content is provided by Licensor from its facilities in the United States of America.  Licensor makes no representation that PathVu Services or PathVu Content are appropriate or available for use in other locations, and access to them from territories where any of the PathVu Services or PathVu Content are illegal is prohibited. Those who choose to use and/or access PathVu Services or PathVu Content from other locations do so of their own volition and are responsible for compliance with applicable local laws.\n \n8.6 No Waiver.  Failure to insist on strict performance of any of the Terms of Use will not operate as a waiver of any subsequent default or failure of performance.\n \n8.7 Severability.  If any part of these Terms of Use is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms of Use shall continue in effect.\n \n8.8 Relationship Between the Parties. Nothing contained in these Terms of Use shall be construed to constitute you and Licensor as partners or joint venturers or to constitute employment or any type of agency.\n \n8.9  Events Beyond Licensor's Control.  Licensor will use reasonable efforts to keep the Application and PathVu Services available for your use; however, Licensor cannot and will not be responsible for any loss or unavailability of access to PathVu Services that results from any cause including a cause over which it does not have direct control, including, but not limited to, failure of electronic or mechanical equipment or communication lines, wireless data or other interconnect problems, computer viruses, unauthorized access, theft, operator errors, severe weather, earthquakes, or natural disasters, strikes or other labor problems, wars, or governmental restrictions.\n \n8.10 Descriptive Headings. The headings of the various sections herein are for convenience of reference only and shall not define, limit or otherwise affect any of the terms or provisions hereof.\n \n8.11  Mandatory Arbitration. \nUNLESS YOU OPT-OUT, YOU AGREE THAT ALL DISPUTES BETWEEN YOU AND PATHVU (WHETHER OR NOT SUCH DISPUTE INVOLVES A THIRD PARTY) WITH REGARD TO YOUR RELATIONSHIP WITH PATHVU, INCLUDING, WITHOUT LIMITATION, DISPUTES RELATED TO THESE TERMS OF USE, YOUR USE OF THE PATHVU SERVICES, AND/OR RIGHTS OF PRIVACY AND/OR PUBLICITY, WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION UNDER THE AMERICAN ARBITRATION ASSOCIATION'S RULES FOR ARBITRATION OF CONSUMER-RELATED DISPUTES AND YOU AND PATHVU HEREBY EXPRESSLY WAIVE TRIAL BY JURY. As an alternative, you may bring your claim in your local \"small claims\" court, if permitted by that small claims court's rules. You may bring claims only on your own behalf. Neither you nor PathVu will participate in a class action or class-wide arbitration for any claims covered by this Agreement. You also agree not to participate in claims brought in a private attorney general or representative capacity, or consolidated claims involving another person's account, if PathVu is a party to the proceeding. This dispute resolution provision will be governed by the Federal Arbitration Act. Judgment on the award rendered by the arbitrator shall be issued to both parties in a writing setting forth in reasonable detail the reasoning for the decision and award and such award may be entered in any court having competent jurisdiction. Any provision of applicable law notwithstanding, the arbitrator will not have authority to award damages, remedies or awards that conflict with these Terms of Use.\n \nYou may opt out of this agreement to arbitrate. If you do so, neither you nor PathVu can require the other to participate in an arbitration proceeding. To opt out, you must notify PathVu in writing within 30 days of the date that you first became subject to this arbitration provision. You must use this address to opt out:\n Pathway Accessibility Solutions, Inc.\n1401 Forbes Ave., Ste. 303\nPittsburgh, PA 15219\n \nYou must include your name and residence address, an email address, and a clear and specific statement that you want to unconditionally opt out of this arbitration agreement.\n \nIf the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then all of the preceding language in this Arbitration section will be null and void. This arbitration agreement will survive the termination of your relationship with PathVu.\n \nNotwithstanding anything to the contrary set forth above, this Arbitration section shall not apply to disputes relating to: (1) your or PathVu's intellectual property (such as trademarks, trade dress, domain names, trade secrets, copyrights and patents); (2) violations of the API Terms; (3) violations of the Acceptable Use Policy; or (4) any dispute in which PathVu is seeking injunctive or equitable relief to prevent further breaches of these Terms of Use by a User.\n\n\n";
+
+/* Class = "UIButton"; normalTitle = "Save Settings"; ObjectID = "2i6-mf-Ih6"; */
+"2i6-mf-Ih6.normalTitle" = "Save Settings";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "2wB-iZ-6bE"; */
+"2wB-iZ-6bE.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UILabel"; text = "Where Does Your"; ObjectID = "3w9-s5-GQ3"; */
+"3w9-s5-GQ3.text" = "Where Does Your";
+
+/* Class = "UITextView"; text = "Place Address"; ObjectID = "3z4-JQ-fmg"; */
+"3z4-JQ-fmg.text" = "Place Address";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "46H-dS-1yP"; */
+"46H-dS-1yP.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "4Qh-k8-okk"; */
+"4Qh-k8-okk.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "4bQ-QA-PxD"; */
+"4bQ-QA-PxD.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UILabel"; text = "Step 3 - Select A Category"; ObjectID = "5Bs-Vm-11C"; */
+"5Bs-Vm-11C.text" = "Step 3 - Select A Category";
+
+/* Class = "UIButton"; normalTitle = "Turn Off Alerts for Null"; ObjectID = "5gh-mK-QlP"; */
+"5gh-mK-QlP.normalTitle" = "Turn Off Alerts for Null";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5no-RD-onS"; */
+"5no-RD-onS.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Cross Slope"; ObjectID = "6YZ-iz-GT9"; */
+"6YZ-iz-GT9.normalTitle" = "Cross Slope";
+
+/* Class = "UIButton"; normalTitle = "Return to Settings"; ObjectID = "6rj-gd-ojU"; */
+"6rj-gd-ojU.normalTitle" = "Return to Settings";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "6u2-gm-KPf"; */
+"6u2-gm-KPf.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "804-c1-bEB"; */
+"804-c1-bEB.text" = "1";
+
+/* Class = "UILabel"; text = "Edit Your Favorite Place"; ObjectID = "94x-Sd-WhN"; */
+"94x-Sd-WhN.text" = "Edit Your Favorite Place";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "9Ie-q0-cuh"; */
+"9Ie-q0-cuh.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Where Does Your"; ObjectID = "9Jh-GN-qOY"; */
+"9Jh-GN-qOY.text" = "Where Does Your";
+
+/* Class = "UILabel"; text = "User Types"; ObjectID = "9NA-YE-76H"; */
+"9NA-YE-76H.text" = "User Types";
+
+/* Class = "UIButton"; normalTitle = "Running Slope"; ObjectID = "9gE-vG-wif"; */
+"9gE-vG-wif.normalTitle" = "Running Slope";
+
+/* Class = "UIButton"; normalTitle = "Turn On Alerts for Null"; ObjectID = "9pk-xy-hb0"; */
+"9pk-xy-hb0.normalTitle" = "Turn On Alerts for Null";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Return To Navigation Home"; ObjectID = "9t4-2q-qYh"; */
+"9t4-2q-qYh.normalTitle" = "Cancel And Return To Navigation Home";
+
+/* Class = "UIButton"; normalTitle = "Last Step"; ObjectID = "AJQ-Gj-Co5"; */
+"AJQ-Gj-Co5.normalTitle" = "Last Step";
+
+/* Class = "UIButton"; normalTitle = "Destination Preview"; ObjectID = "AOh-DM-7Md"; */
+"AOh-DM-7Md.normalTitle" = "Destination Preview";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Ale-Wn-tAP"; */
+"Ale-Wn-tAP.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go Back To Favorites"; ObjectID = "B2L-Ls-597"; */
+"B2L-Ls-597.normalTitle" = "Cancel And Go Back To Favorites";
+
+/* Class = "UIButton"; normalTitle = "Email Support"; ObjectID = "B9r-kS-oAi"; */
+"B9r-kS-oAi.normalTitle" = "Email Support";
+
+/* Class = "UILabel"; text = "Account Username"; ObjectID = "BXR-mP-2Y0"; */
+"BXR-mP-2Y0.text" = "Account Username";
+
+/* Class = "UILabel"; text = "Enter Your Destination"; ObjectID = "Bbh-Xr-8l8"; */
+"Bbh-Xr-8l8.text" = "Enter Your Destination";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "C2q-XG-CB1"; */
+"C2q-XG-CB1.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "C30-x6-hQV"; */
+"C30-x6-hQV.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Sheridan Avenue"; ObjectID = "C4l-FH-xR8"; */
+"C4l-FH-xR8.text" = "Sheridan Avenue";
+
+/* Class = "UILabel"; text = "About pathVu"; ObjectID = "CBO-lm-ql3"; */
+"CBO-lm-ql3.text" = "About pathVu";
+
+/* Class = "UILabel"; text = "Where Does Your"; ObjectID = "CG9-e5-qZP"; */
+"CG9-e5-qZP.text" = "Where Does Your";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Caw-H7-EOP"; */
+"Caw-H7-EOP.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Select the level that best matches your comfort with null "; ObjectID = "Cev-9k-KN4"; */
+"Cev-9k-KN4.text" = "Select the level that best matches your comfort with null ";
+
+/* Class = "UILabel"; text = "Tripping Hazard"; ObjectID = "CtS-WB-hfL"; */
+"CtS-WB-hfL.text" = "Tripping Hazard";
+
+/* Class = "UIButton"; normalTitle = "Repeat"; ObjectID = "Ctd-Nb-HgE"; */
+"Ctd-Nb-HgE.normalTitle" = "Repeat";
+
+/* Class = "UIButton"; normalTitle = "Return to Settings"; ObjectID = "DMg-Te-h3k"; */
+"DMg-Te-h3k.normalTitle" = "Return to Settings";
+
+/* Class = "UIButton"; normalTitle = "Other"; ObjectID = "ECX-ym-kNX"; */
+"ECX-ym-kNX.normalTitle" = "Other";
+
+/* Class = "UILabel"; text = "pathVu\nEmail Support"; ObjectID = "EHX-qz-c9q"; */
+"EHX-qz-c9q.text" = "pathVu\nEmail Support";
+
+/* Class = "UIButton"; normalTitle = "Wheelchair/Scooter User"; ObjectID = "EKK-Wl-hbd"; */
+"EKK-Wl-hbd.normalTitle" = "Wheelchair/Scooter User";
+
+/* Class = "UILabel"; text = "Favorite Place"; ObjectID = "ElS-6j-ySz"; */
+"ElS-6j-ySz.text" = "Favorite Place";
+
+/* Class = "UIButton"; normalTitle = "List"; ObjectID = "FOl-zI-2T0"; */
+"FOl-zI-2T0.normalTitle" = "List";
+
+/* Class = "UITextField"; placeholder = "Search A Location Or Address"; ObjectID = "FP7-5F-zCf"; */
+"FP7-5F-zCf.placeholder" = "Search A Location Or Address";
+
+/* Class = "UIButton"; normalTitle = "Next Step"; ObjectID = "FVw-gA-kTS"; */
+"FVw-gA-kTS.normalTitle" = "Next Step";
+
+/* Class = "UIButton"; normalTitle = "Terms of Agreement"; ObjectID = "Fw8-rM-6eB"; */
+"Fw8-rM-6eB.normalTitle" = "Terms of Agreement";
+
+/* Class = "UIButton"; normalTitle = "Cancel and Return to Settings"; ObjectID = "H2f-xK-of1"; */
+"H2f-xK-of1.normalTitle" = "Cancel and Return to Settings";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "HLN-VX-zOF"; */
+"HLN-VX-zOF.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Destination Preview"; ObjectID = "Hfq-K6-SUe"; */
+"Hfq-K6-SUe.text" = "Destination Preview";
+
+/* Class = "UILabel"; text = "Which user type present would best represent you as a pedestrian navigator?"; ObjectID = "I38-oK-c8n"; */
+"I38-oK-c8n.text" = "Which user type present would best represent you as a pedestrian navigator?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "IMY-A9-AMr"; */
+"IMY-A9-AMr.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "IT2-oC-qxi"; */
+"IT2-oC-qxi.text" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Return to Settings"; ObjectID = "JYo-L6-wwN"; */
+"JYo-L6-wwN.normalTitle" = "Return to Settings";
+
+/* Class = "UITextField"; placeholder = "Currently Using Your Location"; ObjectID = "JgW-LV-1xQ"; */
+"JgW-LV-1xQ.placeholder" = "Currently Using Your Location";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "JnL-wN-7yb"; */
+"JnL-wN-7yb.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Account Settings"; ObjectID = "Jqt-xc-XLf"; */
+"Jqt-xc-XLf.text" = "Account Settings";
+
+/* Class = "UIButton"; normalTitle = "Save Settings"; ObjectID = "JwX-JC-2lu"; */
+"JwX-JC-2lu.normalTitle" = "Save Settings";
+
+/* Class = "UILabel"; text = "Edit Your Favorite Place"; ObjectID = "K6u-lx-yLL"; */
+"K6u-lx-yLL.text" = "Edit Your Favorite Place";
+
+/* Class = "UILabel"; text = "Enter a"; ObjectID = "Kg0-07-Hmw"; */
+"Kg0-07-Hmw.text" = "Enter a";
+
+/* Class = "UILabel"; text = "Enter Your"; ObjectID = "LH3-kR-35n"; */
+"LH3-kR-35n.text" = "Enter Your";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "LKy-I9-Ya2"; */
+"LKy-I9-Ya2.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UIButton"; normalTitle = "No Sidewalk"; ObjectID = "LaU-S8-iD6"; */
+"LaU-S8-iD6.normalTitle" = "No Sidewalk";
+
+/* Class = "UIButton"; normalTitle = "Last Step"; ObjectID = "LiP-sd-PCu"; */
+"LiP-sd-PCu.normalTitle" = "Last Step";
+
+/* Class = "UILabel"; text = "Approaching hazard"; ObjectID = "Lip-gf-yDv"; */
+"Lip-gf-yDv.text" = "Approaching hazard";
+
+/* Class = "UILabel"; text = "Enter Your Favorite\nPlaces To Quickly\nAccess Them Later"; ObjectID = "Lpg-Be-NQc"; */
+"Lpg-Be-NQc.text" = "Enter Your Favorite\nPlaces To Quickly\nAccess Them Later";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "Ltw-3g-V7u"; */
+"Ltw-3g-V7u.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UIButton"; normalTitle = "Add Your First Favorite Place"; ObjectID = "MIy-hx-xGw"; */
+"MIy-hx-xGw.normalTitle" = "Add Your First Favorite Place";
+
+/* Class = "UIButton"; normalTitle = "Sighted and Walking"; ObjectID = "MQP-62-G4p"; */
+"MQP-62-G4p.normalTitle" = "Sighted and Walking";
+
+/* Class = "UIButton"; normalTitle = "Transit Stops"; ObjectID = "Mcy-Gr-Fin"; */
+"Mcy-Gr-Fin.normalTitle" = "Transit Stops";
+
+/* Class = "UIButton"; normalTitle = "Next Step"; ObjectID = "MqY-0t-kbF"; */
+"MqY-0t-kbF.normalTitle" = "Next Step";
+
+/* Class = "UILabel"; text = "Null Alert"; ObjectID = "Msg-na-yLM"; */
+"Msg-na-yLM.text" = "Null Alert";
+
+/* Class = "UILabel"; text = "Report an Obstruction"; ObjectID = "NFS-ih-vmS"; */
+"NFS-ih-vmS.text" = "Report an Obstruction";
+
+/* Class = "UILabel"; text = "1 New Tripping Hazard Reported Around You."; ObjectID = "NQ2-kP-2hW"; */
+"NQ2-kP-2hW.text" = "1 New Tripping Hazard Reported Around You.";
+
+/* Class = "UILabel"; text = "Map Settings"; ObjectID = "NWQ-jk-r9W"; */
+"NWQ-jk-r9W.text" = "Map Settings";
+
+/* Class = "UILabel"; text = "Click the button below to send us any questions or feedback you have. Your ID number will be included in the subject."; ObjectID = "Nek-9B-Sp3"; */
+"Nek-9B-Sp3.text" = "Click the button below to send us any questions or feedback you have. Your ID number will be included in the subject.";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Nvs-Tt-fub"; */
+"Nvs-Tt-fub.normalTitle" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "OfD-cB-dwy"; */
+"OfD-cB-dwy.normalTitle" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Ojy-4O-EXN"; */
+"Ojy-4O-EXN.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Choose from User Type Presets"; ObjectID = "P0e-JE-x4g"; */
+"P0e-JE-x4g.normalTitle" = "Choose from User Type Presets";
+
+/* Class = "UILabel"; text = "Favorite Places"; ObjectID = "PWq-3I-uKv"; */
+"PWq-3I-uKv.text" = "Favorite Places";
+
+/* Class = "UILabel"; text = "No Recent Paths"; ObjectID = "PtV-nC-PHX"; */
+"PtV-nC-PHX.text" = "No Recent Paths";
+
+/* Class = "UIButton"; normalTitle = "No Curb Ramp"; ObjectID = "PuX-bm-Vsp"; */
+"PuX-bm-Vsp.normalTitle" = "No Curb Ramp";
+
+/* Class = "UILabel"; text = "Recent Paths"; ObjectID = "Pyo-g4-cns"; */
+"Pyo-g4-cns.text" = "Recent Paths";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "QFE-KM-yVV"; */
+"QFE-KM-yVV.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "QLR-7C-gnz"; */
+"QLR-7C-gnz.normalTitle" = "Report";
+
+/* Class = "UILabel"; text = "Report an Obstruction"; ObjectID = "Qbs-iU-DUp"; */
+"Qbs-iU-DUp.text" = "Report an Obstruction";
+
+/* Class = "UILabel"; text = "?"; ObjectID = "QiR-za-YeF"; */
+"QiR-za-YeF.text" = "?";
+
+/* Class = "UILabel"; text = "Obstruction Types"; ObjectID = "Qz7-SB-rXv"; */
+"Qz7-SB-rXv.text" = "Obstruction Types";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "RU4-ap-Low"; */
+"RU4-ap-Low.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = " "; ObjectID = "RXs-DO-04W"; */
+"RXs-DO-04W.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SDZ-gH-die"; */
+"SDZ-gH-die.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Width"; ObjectID = "SKx-kw-cPq"; */
+"SKx-kw-cPq.normalTitle" = "Width";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "TKO-0h-jGE"; */
+"TKO-0h-jGE.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Tripping Hazard - Level 3\nat 1401 Forbes Ave"; ObjectID = "TMz-8J-dq8"; */
+"TMz-8J-dq8.text" = "Tripping Hazard - Level 3\nat 1401 Forbes Ave";
+
+/* Class = "UIButton"; normalTitle = "Set and Continue to Set Alerts"; ObjectID = "Til-Bb-QbH"; */
+"Til-Bb-QbH.normalTitle" = "Set and Continue to Set Alerts";
+
+/* Class = "UILabel"; text = "Navigation Home"; ObjectID = "Tt9-3f-6X3"; */
+"Tt9-3f-6X3.text" = "Navigation Home";
+
+/* Class = "UIButton"; normalTitle = "Add A Favorite Place"; ObjectID = "U0y-31-1pf"; */
+"U0y-31-1pf.normalTitle" = "Add A Favorite Place";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Ugh-1h-66U"; */
+"Ugh-1h-66U.normalTitle" = "Send Email";
+
+/* Class = "UIButton"; normalTitle = "Blind/Visually Impaired"; ObjectID = "UpP-we-fAV"; */
+"UpP-we-fAV.normalTitle" = "Blind/Visually Impaired";
+
+/* Class = "UIButton"; normalTitle = "Comfort and Alert Settings"; ObjectID = "W0b-NZ-4pN"; */
+"W0b-NZ-4pN.normalTitle" = "Comfort and Alert Settings";
+
+/* Class = "UILabel"; text = "Step 1 - Photograph the Obstruction"; ObjectID = "WK3-EX-Ry7"; */
+"WK3-EX-Ry7.text" = "Step 1 - Photograph the Obstruction";
+
+/* Class = "UILabel"; text = "Place Name"; ObjectID = "WpO-aN-x1d"; */
+"WpO-aN-x1d.text" = "Place Name";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "XSm-AT-8xs"; */
+"XSm-AT-8xs.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "pathVu Terms of Agreement"; ObjectID = "Xn8-0h-iR9"; */
+"Xn8-0h-iR9.text" = "pathVu Terms of Agreement";
+
+/* Class = "UIButton"; normalTitle = "Save and Return to Obstruction List"; ObjectID = "YMu-Vc-HJU"; */
+"YMu-Vc-HJU.normalTitle" = "Save and Return to Obstruction List";
+
+/* Class = "UIButton"; normalTitle = "Account Settings"; ObjectID = "YYl-n8-taU"; */
+"YYl-n8-taU.normalTitle" = "Account Settings";
+
+/* Class = "UITextField"; placeholder = "Currently Using Your Location"; ObjectID = "YhE-N8-VNy"; */
+"YhE-N8-VNy.placeholder" = "Currently Using Your Location";
+
+/* Class = "UIButton"; normalTitle = "Rename Favorite"; ObjectID = "Yo9-mu-8xD"; */
+"Yo9-mu-8xD.normalTitle" = "Rename Favorite";
+
+/* Class = "UIButton"; normalTitle = "Favorite Places"; ObjectID = "Z4a-NG-zx0"; */
+"Z4a-NG-zx0.normalTitle" = "Favorite Places";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "a9q-KL-Pt8"; */
+"a9q-KL-Pt8.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Enter Your Destination"; ObjectID = "aAb-Nw-oOp"; */
+"aAb-Nw-oOp.text" = "Enter Your Destination";
+
+/* Class = "UILabel"; text = "Null Alert"; ObjectID = "aQZ-Gq-U7C"; */
+"aQZ-Gq-U7C.text" = "Null Alert";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "aTv-YF-5I6"; */
+"aTv-YF-5I6.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Enter a Username"; ObjectID = "avb-da-JpE"; */
+"avb-da-JpE.placeholder" = "Enter a Username";
+
+/* Class = "UITextField"; text = "FirstL"; ObjectID = "avb-da-JpE"; */
+"avb-da-JpE.text" = "FirstL";
+
+/* Class = "UIButton"; normalTitle = "Approve Photo"; ObjectID = "awt-RQ-X9a"; */
+"awt-RQ-X9a.normalTitle" = "Approve Photo";
+
+/* Class = "UILabel"; text = "Line 1\nLine 2"; ObjectID = "bCx-ZH-rp4"; */
+"bCx-ZH-rp4.text" = "Line 1\nLine 2";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bST-kY-uYy"; */
+"bST-kY-uYy.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Set A New Path"; ObjectID = "bgP-9M-sqT"; */
+"bgP-9M-sqT.normalTitle" = "Set A New Path";
+
+/* Class = "UILabel"; text = "Step 4 - Confirm and Submit"; ObjectID = "bh4-EM-2GK"; */
+"bh4-EM-2GK.text" = "Step 4 - Confirm and Submit";
+
+/* Class = "UILabel"; text = "Navigating to Location..."; ObjectID = "bi5-Ie-zNv"; */
+"bi5-Ie-zNv.text" = "Navigating to Location...";
+
+/* Class = "UILabel"; text = "Would you like to receive alerts about null in your path?"; ObjectID = "bw8-ZL-Wcl"; */
+"bw8-ZL-Wcl.text" = "Would you like to receive alerts about null in your path?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cHM-xy-Euz"; */
+"cHM-xy-Euz.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "cI5-cz-nr9"; */
+"cI5-cz-nr9.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "Save and Return to Obstruction List"; ObjectID = "cX6-Xb-gNr"; */
+"cX6-Xb-gNr.normalTitle" = "Save and Return to Obstruction List";
+
+/* Class = "UILabel"; text = "Path Begin"; ObjectID = "cbQ-56-r8j"; */
+"cbQ-56-r8j.text" = "Path Begin";
+
+/* Class = "UIButton"; normalTitle = "Use This User Type Preset"; ObjectID = "ce1-tU-ShP"; */
+"ce1-tU-ShP.normalTitle" = "Use This User Type Preset";
+
+/* Class = "UIButton"; normalTitle = "Turn On IMU"; ObjectID = "dkq-G3-Wtr"; */
+"dkq-G3-Wtr.normalTitle" = "Turn On IMU";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "e7c-KF-29G"; */
+"e7c-KF-29G.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Cancel and Return to Obstruction List"; ObjectID = "eIW-1b-gFx"; */
+"eIW-1b-gFx.normalTitle" = "Cancel and Return to Obstruction List";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ea2-m8-I03"; */
+"ea2-m8-I03.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "fJp-MR-kkB"; */
+"fJp-MR-kkB.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "fPd-T4-aU1"; */
+"fPd-T4-aU1.text" = "4";
+
+/* Class = "UITextField"; placeholder = "Search A Location Or Address"; ObjectID = "fVy-Uz-D6m"; */
+"fVy-Uz-D6m.placeholder" = "Search A Location Or Address";
+
+/* Class = "UIButton"; normalTitle = "Submit My Report"; ObjectID = "fto-XU-Hdg"; */
+"fto-XU-Hdg.normalTitle" = "Submit My Report";
+
+/* Class = "UIButton"; normalTitle = "Remove Favorite"; ObjectID = "g6b-ft-o7w"; */
+"g6b-ft-o7w.normalTitle" = "Remove Favorite";
+
+/* Class = "UIButton"; normalTitle = "Curb Ramps"; ObjectID = "gcd-0z-xqa"; */
+"gcd-0z-xqa.normalTitle" = "Curb Ramps";
+
+/* Class = "UIButton"; normalTitle = "Preview My Destination"; ObjectID = "ghf-DB-vh6"; */
+"ghf-DB-vh6.normalTitle" = "Preview My Destination";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "gqq-33-rYv"; */
+"gqq-33-rYv.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UIButton"; normalTitle = "Tripping Hazard"; ObjectID = "h3j-Zf-7QK"; */
+"h3j-Zf-7QK.normalTitle" = "Tripping Hazard";
+
+/* Class = "UILabel"; text = "Updating Weather"; ObjectID = "h3z-Dz-l6p"; */
+"h3z-Dz-l6p.text" = "Updating Weather";
+
+/* Class = "UIButton"; normalTitle = "Very Uncomfortable"; ObjectID = "hW0-EB-h9a"; */
+"hW0-EB-h9a.normalTitle" = "Very Uncomfortable";
+
+/* Class = "UILabel"; text = "Path Begin"; ObjectID = "ir6-N9-SGY"; */
+"ir6-N9-SGY.text" = "Path Begin";
+
+/* Class = "UIButton"; normalTitle = "Preview My Destination"; ObjectID = "jXB-EH-xEe"; */
+"jXB-EH-xEe.normalTitle" = "Preview My Destination";
+
+/* Class = "UIButton"; normalTitle = "Construction"; ObjectID = "jbl-2Z-Rur"; */
+"jbl-2Z-Rur.normalTitle" = "Construction";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "jkF-Q5-t0I"; */
+"jkF-Q5-t0I.text" = "Destination";
+
+/* Class = "UILabel"; text = " "; ObjectID = "k20-Cg-zkJ"; */
+"k20-Cg-zkJ.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Retake Photo"; ObjectID = "kQi-yt-RSa"; */
+"kQi-yt-RSa.normalTitle" = "Retake Photo";
+
+/* Class = "UILabel"; text = "Favorite Place"; ObjectID = "lah-df-TbC"; */
+"lah-df-TbC.text" = "Favorite Place";
+
+/* Class = "UILabel"; text = "Updating..."; ObjectID = "m6M-o1-ZgM"; */
+"m6M-o1-ZgM.text" = "Updating...";
+
+/* Class = "UIViewController"; title = "TempNav"; ObjectID = "m87-vQ-xh9"; */
+"m87-vQ-xh9.title" = "TempNav";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "meb-dJ-N32"; */
+"meb-dJ-N32.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "mfr-4c-ebm"; */
+"mfr-4c-ebm.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Line 1\nLine 2"; ObjectID = "mn7-XA-aLr"; */
+"mn7-XA-aLr.text" = "Line 1\nLine 2";
+
+/* Class = "UIButton"; normalTitle = "Set Path"; ObjectID = "nDb-7n-tQT"; */
+"nDb-7n-tQT.normalTitle" = "Set Path";
+
+/* Class = "UIButton"; normalTitle = "Turn Off IMU"; ObjectID = "ntg-UQ-Hy5"; */
+"ntg-UQ-Hy5.normalTitle" = "Turn Off IMU";
+
+/* Class = "UITextField"; placeholder = "Enter A Custom Name If You Prefer"; ObjectID = "oXl-ns-eun"; */
+"oXl-ns-eun.placeholder" = "Enter A Custom Name If You Prefer";
+
+/* Class = "UITextField"; placeholder = "Search A Location Or Address"; ObjectID = "pDy-cL-LH9"; */
+"pDy-cL-LH9.placeholder" = "Search A Location Or Address";
+
+/* Class = "UILabel"; text = "Email Support"; ObjectID = "pNV-C5-ElV"; */
+"pNV-C5-ElV.text" = "Email Support";
+
+/* Class = "UILabel"; text = "Destination Preview"; ObjectID = "pPs-7U-bkY"; */
+"pPs-7U-bkY.text" = "Destination Preview";
+
+/* Class = "UIButton"; normalTitle = "IMU"; ObjectID = "q2b-WH-cUW"; */
+"q2b-WH-cUW.normalTitle" = "IMU";
+
+/* Class = "UILabel"; text = "Features"; ObjectID = "qLc-4P-bWP"; */
+"qLc-4P-bWP.text" = "Features";
+
+/* Class = "UILabel"; text = "Would you like to receive alerts about null in your path?"; ObjectID = "qTM-ZU-Y4x"; */
+"qTM-ZU-Y4x.text" = "Would you like to receive alerts about null in your path?";
+
+/* Class = "UILabel"; text = "Null Comfort"; ObjectID = "qvk-IC-ddY"; */
+"qvk-IC-ddY.text" = "Null Comfort";
+
+/* Class = "UITextField"; placeholder = "Search A Location Or Address"; ObjectID = "qxQ-xW-KXb"; */
+"qxQ-xW-KXb.placeholder" = "Search A Location Or Address";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go To Navigation Home"; ObjectID = "rCj-QC-lsX"; */
+"rCj-QC-lsX.normalTitle" = "Cancel And Go To Navigation Home";
+
+/* Class = "UILabel"; text = "0 steps, 0 mins, 0 feet, 0 obstructions"; ObjectID = "rT1-U8-LCn"; */
+"rT1-U8-LCn.text" = "0 steps, 0 mins, 0 feet, 0 obstructions";
+
+/* Class = "UIButton"; normalTitle = "Re-Center"; ObjectID = "rcq-EK-idn"; */
+"rcq-EK-idn.normalTitle" = "Re-Center";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "rjS-LT-I1C"; */
+"rjS-LT-I1C.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Navigating to Location..."; ObjectID = "rmn-Er-b6A"; */
+"rmn-Er-b6A.text" = "Navigating to Location...";
+
+/* Class = "UIButton"; normalTitle = "Add Place And Return To Favorites"; ObjectID = "s9y-yr-xDx"; */
+"s9y-yr-xDx.normalTitle" = "Add Place And Return To Favorites";
+
+/* Class = "UIButton"; normalTitle = "About pathVu"; ObjectID = "sUr-8h-YCC"; */
+"sUr-8h-YCC.normalTitle" = "About pathVu";
+
+/* Class = "UIButton"; normalTitle = "Crowd Source"; ObjectID = "sYf-bY-fQG"; */
+"sYf-bY-fQG.normalTitle" = "Crowd Source";
+
+/* Class = "UILabel"; text = "Report an Obstruction"; ObjectID = "sif-8r-4bA"; */
+"sif-8r-4bA.text" = "Report an Obstruction";
+
+/* Class = "UILabel"; text = "Add A Favorite Place"; ObjectID = "so8-RT-Pg1"; */
+"so8-RT-Pg1.text" = "Add A Favorite Place";
+
+/* Class = "UITextField"; placeholder = "Currently Using Your Location"; ObjectID = "swA-jk-Qha"; */
+"swA-jk-Qha.placeholder" = "Currently Using Your Location";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "tf5-KV-QhP"; */
+"tf5-KV-QhP.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "List"; ObjectID = "vYb-Dt-1sM"; */
+"vYb-Dt-1sM.normalTitle" = "List";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vi0-KK-K7y"; */
+"vi0-KK-K7y.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "ID:"; ObjectID = "vlA-DQ-z6X"; */
+"vlA-DQ-z6X.text" = "ID:";
+
+/* Class = "UILabel"; text = "Current Location"; ObjectID = "wYC-9M-2pf"; */
+"wYC-9M-2pf.text" = "Current Location";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Go Back To Favorite"; ObjectID = "wdV-GO-NIq"; */
+"wdV-GO-NIq.normalTitle" = "Cancel And Go Back To Favorite";
+
+/* Class = "UILabel"; text = "Terms of Agreement"; ObjectID = "weN-TY-9FZ"; */
+"weN-TY-9FZ.text" = "Terms of Agreement";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xFG-5K-O9h"; */
+"xFG-5K-O9h.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Map Settings"; ObjectID = "xSt-uW-6m1"; */
+"xSt-uW-6m1.normalTitle" = "Map Settings";
+
+/* Class = "UIButton"; normalTitle = "Tripping Hazard"; ObjectID = "xhe-4y-jBy"; */
+"xhe-4y-jBy.normalTitle" = "Tripping Hazard";
+
+/* Class = "UIButton"; normalTitle = "Completely Comfortable"; ObjectID = "xk8-xL-0jD"; */
+"xk8-xL-0jD.normalTitle" = "Completely Comfortable";
+
+/* Class = "UILabel"; text = "Use caution in the next 50 ft"; ObjectID = "y0x-cw-BE1"; */
+"y0x-cw-BE1.text" = "Use caution in the next 50 ft";
+
+/* Class = "UIButton"; normalTitle = "Cane/Walker User"; ObjectID = "yCZ-xP-wYl"; */
+"yCZ-xP-wYl.normalTitle" = "Cane/Walker User";
+
+/* Class = "UILabel"; text = "0 steps, 0 mins, 0 feet, 0 obstructions"; ObjectID = "yK7-ou-ZxR"; */
+"yK7-ou-ZxR.text" = "0 steps, 0 mins, 0 feet, 0 obstructions";
+
+/* Class = "UILabel"; text = "Path Begin"; ObjectID = "yPA-yi-tX7"; */
+"yPA-yi-tX7.text" = "Path Begin";
+
+/* Class = "UIButton"; normalTitle = "Cancel And Return To Navigation Home"; ObjectID = "zx0-nR-xfP"; */
+"zx0-nR-xfP.normalTitle" = "Cancel And Return To Navigation Home";

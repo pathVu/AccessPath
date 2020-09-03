@@ -1,0 +1,13 @@
+target "Access Path" do
+    platform :ios, '10.0'
+    use_frameworks!
+    pod "FacebookLogin"
+    pod "GoogleSignIn"
+    pod "SwiftyJSON", "~> 4.0"
+    pod "ArcGIS-Runtime-SDK-iOS"
+    pod "ReachabilitySwift"
+    pod 'Alamofire', '~> 4.7'
+    pod 'IQKeyboardManagerSwift'
+    pod "GooglePlaces"
+    pod "GoogleMaps"
+end

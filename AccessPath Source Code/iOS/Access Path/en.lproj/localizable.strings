@@ -1,0 +1,68 @@
+/* 
+  localization.strings
+  Access Path
+
+  Created by Chetu on 1/31/19.
+  Copyright © 2019 pathVu. All rights reserved.
+*/
+"Approaching hazard" = "Approaching hazard";
+"Route Not Available" = "Route Not Available";
+"A route is not available for the specified destination." = "A route is not available for the specified destination.";
+"ok"= "OK";
+
+
+"Disagree with the terms and close pathVu?" = "Disagree with the terms and close pathVu?";
+"Confirm" = "Confirm";
+"Yes" = "Yes";
+"No" = "No";
+"Cancel" = "Cancel";
+"Failed" = "Failed";
+"Sign Out" = "Sign Out";
+"Are you sure you want to sign out of pathVu?" = "Are you sure you want to sign out of pathVu?";
+
+
+"Unable to connect to pathVu servers" = "Unable to connect to pathVu servers";
+"Weather Unavailable" = "Weather Unavailable";
+"No Internet Connection" = "No Internet Connection";
+"You are offline, please connect to the internet and try again." = "You are offline, please connect to the internet and try again.";
+
+
+"Reporting Not Available" = "Reporting Not Available";
+"Guest accounts are not permitted to report obstructions.Please sign up with a non-guest account."= "Guest accounts are not permitted to report obstructions. Please sign up with a non-guest account.";
+
+
+"Please enter a correct email address" = "Please enter a correct email address";
+"Usernames must be 2 or more characters"= "Usernames must be 2 or more characters";
+"Looks Good!"= "Looks Good!";
+"Username already exists" = "Username already exists";
+"Username Changed Successfully!" = "Username Changed Successfully!";
+
+
+"Account Already Exists" = "Account Already Exists";
+
+
+"Set Path To" = "Set Path To";
+"Please enter a new name" = "Please enter a new name";
+"Successfully updated!" = "Successfully updated!";
+"Search A Location Or Address" = "Search A Location Or Address";
+"Please enter the favourite address name?" = "Please enter the favourite address name?";
+"Please enter the location address" = "Please enter the location address";
+
+
+
+"feet" = "feet";
+"Maneuvers" = "Maneuvers";
+"Mute" = "Mute";
+"UnMute" = "UnMute";
+"Repeat" = "Repeat";
+"Map" = "Map";
+"Last Step" = "Last Step";
+"List" = "List";
+"Steps" = "Steps";
+
+"Turn On Alerts for" = "Turn On Alerts for";
+"Turn Off Alerts for" = "Turn Off Alerts for";
+"Submitting..." = "Submitting...";
+"Success" = "Success";
+
+
